@@ -129,3 +129,16 @@ function closesearchresponse(){
     document.getElementById('search-bar2').classList.toggle('hidden')
     document.getElementById('search-bar2').classList.toggle('flex')
 }
+
+window.hoverDrop = hoverDrop;
+window.hoverHide = hoverHide;
+window.golfDrop = golfDrop;
+window.golfHide = golfHide;
+window.openNav = openNav;
+window.closeNav = closeNav;
+window.showDropdown = showDropdown;
+window.pushArrow1 = pushArrow1;
+window.opensearch = opensearch;
+window.closesearch = closesearch;
+window.opensearchresponse = opensearchresponse;
+window.closesearchresponse = closesearchresponse;
