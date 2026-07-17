@@ -30,20 +30,20 @@ class Sidebar extends HTMLElement {
               class="max-h-0 overflow-y-hidden duration-300 pl-10 bg-[#F7F8F9] font-[Oswald] mt-4"
               id="badminton-drop"
             >
-              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/public/product-review-badminton.html">RAQUEST</a></li>
+              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/pages/product-review-badminton.html">RAQUEST</a></li>
               <li class="tracking-[2px] pb-2"><a href="">STRINGS</a></li>
               <li class="tracking-[2px] pb-2"><a href="">SHUTTLECOCKS</a></li>
               <li class="tracking-[2px] pb-2"><a href="">APPAREL</a></li>
               <li class="tracking-[2px] pb-2"><a href="">SHOES</a></li>
               <li class="tracking-[2px] pb-2"><a href="">BAGS</a></li>
               <li class="tracking-[2px] pb-2"><a href="">ACCESSORIES</a></li>
-              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/public/athletes-badminton.html">ATHLETES</a></li>
+              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/pages/athletes-badminton.html">ATHLETES</a></li>
             </ul>
           </li>
           <li class="border-b">
             <div class="flex justify-between">
               <a
-                href="/Yunex-Clone/public/product-review-golf.html"
+                href="/Yunex-Clone/pages/product-review-golf.html"
                 class="py-2 px-4 block text-[#1f2427] transition duration-300 tracking-[1px] text-[18px]"
                 >GOLF</a
               >
@@ -62,10 +62,10 @@ class Sidebar extends HTMLElement {
               class="max-h-0 overflow-y-hidden duration-300 pl-10 bg-[#F7F8F9] font-[Oswald] mt-4"
               id="golf-drop"
             >
-              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/public/product-review-golf.html">CLUBS</a></li>
+              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/pages/product-review-golf.html">CLUBS</a></li>
               <li class="tracking-[2px] pb-2"><a href="">SHAFTS</a></li>
               <li class="tracking-[2px] pb-2"><a href="">GEAR</a></li>
-              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/public/athletes-golf.html">ATHLETES</a></li>
+              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/pages/athletes-golf.html">ATHLETES</a></li>
             </ul>
           </li>
           <li class="border-b">
@@ -90,14 +90,14 @@ class Sidebar extends HTMLElement {
               class="max-h-0 overflow-y-hidden duration-300 pl-10 bg-[#F7F8F9] font-[Oswald] mt-4"
               id="tennis-drop"
             >
-              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/public/product-review-tennis.html">RAQUEST</a></li>
+              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/pages/product-review-tennis.html">RAQUEST</a></li>
               <li class="tracking-[2px] pb-2"><a href="">STRINGS</a></li>
               <li class="tracking-[2px] pb-2"><a href="">BALLS</a></li>
               <li class="tracking-[2px] pb-2"><a href="">APPAREL</a></li>
               <li class="tracking-[2px] pb-2"><a href="">FOOTWEAR</a></li>
               <li class="tracking-[2px] pb-2"><a href="">BAGS</a></li>
               <li class="tracking-[2px] pb-2"><a href="">ACCESSORIES</a></li>
-              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/public/athletes-tennis.html">ATHLETES</a></li>
+              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/pages/athletes-tennis.html">ATHLETES</a></li>
             </ul>
           </li>
           <li class="border-b">
@@ -122,9 +122,9 @@ class Sidebar extends HTMLElement {
               class="max-h-0 overflow-y-hidden duration-300 pl-10 bg-[#F7F8F9] font-[Oswald] mt-4"
               id="running-drop"
             >
-              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/public/product-review-men.html">MEN</a></li>
-              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/public/product-review-women.html">WOMEN</a></li>
-              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/public/product-review-unisex.html">UNISEX</a></li>
+              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/pages/product-review-men.html">MEN</a></li>
+              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/pages/product-review-women.html">WOMEN</a></li>
+              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/pages/product-review-unisex.html">UNISEX</a></li>
             </ul>
           </li>
           <li class="border-b">
@@ -149,16 +149,16 @@ class Sidebar extends HTMLElement {
               class="max-h-0 overflow-y-hidden duration-300 pl-10 bg-[#F7F8F9] font-[Oswald] mt-4"
               id="snowboard-drop"
             >
-              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/public/product-review-snowboarding.html">BOARDS</a></li>
+              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/pages/product-review-snowboarding.html">BOARDS</a></li>
               <li class="tracking-[2px] pb-2"><a href="">BOOTS & BINDING</a></li>
               <li class="tracking-[2px] pb-2"><a href="">APPAREL</a></li>
               <li class="tracking-[2px] pb-2"><a href="">ACCESSORIES</a></li>
-              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/public/athletes-snowboarding.html">TEAM</a></li>
+              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/pages/athletes-snowboarding.html">TEAM</a></li>
             </ul>
           </li>
           <li class="border-b">
             <a
-              href="/Yunex-Clone/public/news.html"
+              href="/Yunex-Clone/pages/news.html"
               class="pb-2 mb-3 px-4 block text-[#1f2427] transition duration-300 tracking-[1px] text-[18px]"
               >NEWS</a
             >
@@ -166,7 +166,7 @@ class Sidebar extends HTMLElement {
           <li class="border-b">
             <div class="flex justify-between">
               <a
-                href="/Yunex-Clone/public/about-us.html"
+                href="/Yunex-Clone/pages/about-us.html"
                 class="py-2 px-4 block text-[#1f2427] transition duration-300 tracking-[1px] text-[18px]"
                 >ABOUT</a
               >
@@ -185,10 +185,10 @@ class Sidebar extends HTMLElement {
               class="max-h-[0] overflow-y-hidden duration-300 pl-10 bg-[#F7F8F9] font-[Oswald] mt-4 border-t"
               id="about-drop"
             >
-              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/public/about-us.html">ABOUT US</a></li>
-              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/public/yonex-group.html">YONEX GROUP</a></li>
+              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/pages/about-us.html">ABOUT US</a></li>
+              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/pages/yonex-group.html">YONEX GROUP</a></li>
               <li class="tracking-[2px] pb-2">
-                <a href="/Yunex-Clone/public/yonex-distributors.html">YONEX DISTRIBUTIORS</a>
+                <a href="/Yunex-Clone/pages/yonex-distributors.html">YONEX DISTRIBUTIORS</a>
               </li>
               <li class="tracking-[2px] pb-2">
                 <a href="">INVESTOR RELATIONS</a>

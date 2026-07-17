@@ -51,7 +51,7 @@ class Navbar extends HTMLElement {
           >
             <!-- Badminton Hoverdrop -->
             <div  class="group h-full pt-[30px] px-5 max-[940px]:px-2"  id="hoverLink"  onmouseenter="hoverDrop(1)"  onmouseleave="hoverHide(-1)">
-              <a href="/Yunex-Clone/public/product-review-badminton.html" class="group-hover:opacity-50 text-[13px] tracking-[1px] font-[500] relative top-[7%]">BADMINTON</a>
+              <a href="/Yunex-Clone/pages/product-review-badminton.html" class="group-hover:opacity-50 text-[13px] tracking-[1px] font-[500] relative top-[7%]">BADMINTON</a>
               <!-- Badminton section -->
               <section class="w-full bg-white absolute top-[100px] max-h-[0px] overflow-hidden duration-500 ease-in-out z-[10000] left-0" id="badminton" >
                 <div id="" class="max-w-[95%] mx-auto p-[40px]">
@@ -63,7 +63,7 @@ class Navbar extends HTMLElement {
             </div>
         
             <div  class="group h-full pt-[30px] px-5 max-[940px]:px-2"  id="hoverLink"  onmouseenter="hoverDrop(2)"  onmouseleave="hoverHide(-2)">
-              <a href="/Yunex-Clone/public/product-review-tennis.html" class="group-hover:opacity-50 text-[13px] tracking-[1px] font-[500] relative top-[7%]">TENNIS</a>
+              <a href="/Yunex-Clone/pages/product-review-tennis.html" class="group-hover:opacity-50 text-[13px] tracking-[1px] font-[500] relative top-[7%]">TENNIS</a>
               <!-- Tennis section -->
               <section class="w-full bg-white absolute top-[100px] max-h-[0px] overflow-hidden duration-500 ease-in-out z-[10000] left-0" id="tennis" >
                 <div id="" class="max-w-[95%] mx-auto p-[40px]">
@@ -75,7 +75,7 @@ class Navbar extends HTMLElement {
             </div>
         
             <div  class="group h-full pt-[30px] px-5 max-[940px]:px-2"  id="hoverLink"  onmouseenter="hoverDrop(3)"  onmouseleave="hoverHide(-3)">
-              <a href="/Yunex-Clone/public/product-review-golf.html" class="group-hover:opacity-50 text-[13px] tracking-[1px] font-[500] relative top-[7%]">GOLF</a>
+              <a href="/Yunex-Clone/pages/product-review-golf.html" class="group-hover:opacity-50 text-[13px] tracking-[1px] font-[500] relative top-[7%]">GOLF</a>
               <!-- Golf section -->
               <section class="w-full bg-white absolute top-[100px] max-h-[0px] overflow-hidden duration-500 ease-in-out z-[10000] left-0" id="golf" >
                 <div id="" class="max-w-[95%] mx-auto p-[40px]">
@@ -87,7 +87,7 @@ class Navbar extends HTMLElement {
             </div>
             
             <div  class="group h-full pt-[30px] px-5 max-[940px]:px-2"  id="hoverLink"  onmouseenter="hoverDrop(4)"  onmouseleave="hoverHide(-4)">
-              <a href="/Yunex-Clone/public/product-review-all-running.html" class="group-hover:opacity-50 text-[13px] tracking-[1px] font-[500] relative top-[7%]">RUNNING</a>
+              <a href="/Yunex-Clone/pages/product-review-all-running.html" class="group-hover:opacity-50 text-[13px] tracking-[1px] font-[500] relative top-[7%]">RUNNING</a>
               <!-- Running section -->
               <section class="w-full bg-white absolute top-[100px] max-h-[0px] overflow-hidden duration-500 ease-in-out z-[10000] left-0" id="running" >
                 <div id="" class="max-w-[95%] mx-auto p-[40px]">
@@ -99,7 +99,7 @@ class Navbar extends HTMLElement {
             </div>
         
             <div  class="group h-full pt-[30px] px-5 max-[940px]:px-2"  id="hoverLink"  onmouseenter="hoverDrop(5)"  onmouseleave="hoverHide(-5)">
-              <a href="/Yunex-Clone/public/product-review-snowboarding.html" class="group-hover:opacity-50 text-[13px] tracking-[1px] font-[500] relative top-[7%]">SNOWBOARDING</a>
+              <a href="/Yunex-Clone/pages/product-review-snowboarding.html" class="group-hover:opacity-50 text-[13px] tracking-[1px] font-[500] relative top-[7%]">SNOWBOARDING</a>
               <!-- Snowboarding section -->
               <section class="w-full bg-white absolute top-[100px] max-h-[0px] overflow-hidden duration-500 ease-in-out z-[10000] left-0" id="snowboard" >
                 <div id="" class="max-w-[95%] mx-auto p-[40px] pb-[20px]">
@@ -107,7 +107,7 @@ class Navbar extends HTMLElement {
                     <card-slide data-source="snowboarding-obj" grid-style="grid-cols-4 gap-4"></card-slide>
                     <div class="flex max-w-[1200px] mx-auto">
                         <div class="flex flex-col items-center justify-center w-[213px]">
-                            <a id="hoverLink" href="/Yunex-Clone/public/athletes-snowboarding.html" class="bg-[#F7F8FA]"><img src="/Yunex-Clone/assets/images/snowboard-images/skate-athlete.webp" alt=""></a>
+                            <a id="hoverLink" href="/Yunex-Clone/pages/athletes-snowboarding.html" class="bg-[#F7F8FA]"><img src="/Yunex-Clone/assets/images/snowboard-images/skate-athlete.webp" alt=""></a>
                             <p class="text-[16px] text-black tracking-[1.5px] pt-2">TEAM</p>
                         </div>
                     </div>
@@ -117,7 +117,7 @@ class Navbar extends HTMLElement {
             </div>
         
             <div class="cursor-pointer hover:opacity-80 h-full pt-[30px] px-5 max-[940px]:px-2">
-              <a href="/Yunex-Clone/public/news.html" class="relative top-[7%] pb-4 text-[13px] tracking-[1px] font-[500]">NEWS</a>
+              <a href="/Yunex-Clone/pages/news.html" class="relative top-[7%] pb-4 text-[13px] tracking-[1px] font-[500]">NEWS</a>
             </div>
         
             <div  class="group h-full pt-[30px] px-5 max-[940px]:px-2"  id="hoverLink"  onmouseenter="hoverDrop(6)"  onmouseleave="hoverHide(-6)">
