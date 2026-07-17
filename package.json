@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy:gh": "vite build --base=/2nd-mission/",
+    "deploy:gh": "vite build --base=/Yunex-Clone/",
     "deploy": "npm run deploy:gh && npx gh-pages -d dist"
   },
   "keywords": [],
