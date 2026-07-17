@@ -2,10 +2,10 @@
 class AthleteCover extends HTMLElement {
     connectedCallback() {
         const athleteImages = {
-            BADMINTON: '../assets/images/athletes/Badminton_Athletes_Hero.webp',
-            TENNIS: '../assets/images/athletes/Tennis_Athletes_Hero.webp',
-            GOLF: '../assets/images/athletes/Golf_Athletes_Hero.webp',
-            SNOWBOARDING: '../assets/images/athletes/Snowbord_Athletes_Hero.webp',
+            BADMINTON: 'assets/images/athletes/Badminton_Athletes_Hero.webp',
+            TENNIS: 'assets/images/athletes/Tennis_Athletes_Hero.webp',
+            GOLF: 'assets/images/athletes/Golf_Athletes_Hero.webp',
+            SNOWBOARDING: 'assets/images/athletes/Snowbord_Athletes_Hero.webp',
             // Add more mappings as needed
         };
         
@@ -18,7 +18,7 @@ class AthleteCover extends HTMLElement {
         }
         const id = this.getAttribute('id');
         const sport = this.getAttribute('catSport')
-        const imageUrl = athleteImages[id] || '../assets/images/athletes/Badminton_Athletes_Hero.webp';
+        const imageUrl = athleteImages[id] || 'assets/images/athletes/Badminton_Athletes_Hero.webp';
         const sportTitle = title[id]
 
         this.innerHTML = `
