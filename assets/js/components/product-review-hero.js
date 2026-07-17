@@ -26,7 +26,7 @@ const HeroCoverContainer = (heroContents) => {
                     />
                     <ul class="max-[500px]:left-5 top-10 left-20 absolute flex gap-5 text-[0.75rem] justify-center">
                         <li class="flex gap-5 max-lg:text-[1.5rem]">
-                            <a href="/2nd-mission/index.html" class="hover:border-b-[1px] border-[#050505] max-sm:text-[1.3rem] lg:text-[1.5rem]">
+                            <a href="/Yunex-Clone/index.html" class="hover:border-b-[1px] border-[#050505] max-sm:text-[1.3rem] lg:text-[1.5rem]">
                                 Home
                             </a>
                             <span class="text-[0.75rem] max-lg:text-[1.5rem] max-sm:text-[1.3rem] lg:text-[1.5rem]">/</span>
