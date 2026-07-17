@@ -123,7 +123,7 @@
           >
             <!-- Badminton Hoverdrop -->
             <div  class="group h-full pt-[30px] px-5 max-[940px]:px-2"  id="hoverLink"  onmouseenter="hoverDrop(1)"  onmouseleave="hoverHide(-1)">
-              <a href="public/product-review-badminton.html" class="group-hover:opacity-50 text-[13px] tracking-[1px] font-[500] relative top-[7%]">BADMINTON</a>
+              <a href="product-review-badminton.html" class="group-hover:opacity-50 text-[13px] tracking-[1px] font-[500] relative top-[7%]">BADMINTON</a>
               <!-- Badminton section -->
               <section class="w-full bg-white absolute top-[100px] max-h-[0px] overflow-hidden duration-500 ease-in-out z-[10000] left-0" id="badminton" >
                 <div id="" class="max-w-[95%] mx-auto p-[40px]">
@@ -135,7 +135,7 @@
             </div>
         
             <div  class="group h-full pt-[30px] px-5 max-[940px]:px-2"  id="hoverLink"  onmouseenter="hoverDrop(2)"  onmouseleave="hoverHide(-2)">
-              <a href="public/product-review-tennis.html" class="group-hover:opacity-50 text-[13px] tracking-[1px] font-[500] relative top-[7%]">TENNIS</a>
+              <a href="product-review-tennis.html" class="group-hover:opacity-50 text-[13px] tracking-[1px] font-[500] relative top-[7%]">TENNIS</a>
               <!-- Tennis section -->
               <section class="w-full bg-white absolute top-[100px] max-h-[0px] overflow-hidden duration-500 ease-in-out z-[10000] left-0" id="tennis" >
                 <div id="" class="max-w-[95%] mx-auto p-[40px]">
@@ -147,7 +147,7 @@
             </div>
         
             <div  class="group h-full pt-[30px] px-5 max-[940px]:px-2"  id="hoverLink"  onmouseenter="hoverDrop(3)"  onmouseleave="hoverHide(-3)">
-              <a href="public/product-review-golf.html" class="group-hover:opacity-50 text-[13px] tracking-[1px] font-[500] relative top-[7%]">GOLF</a>
+              <a href="product-review-golf.html" class="group-hover:opacity-50 text-[13px] tracking-[1px] font-[500] relative top-[7%]">GOLF</a>
               <!-- Golf section -->
               <section class="w-full bg-white absolute top-[100px] max-h-[0px] overflow-hidden duration-500 ease-in-out z-[10000] left-0" id="golf" >
                 <div id="" class="max-w-[95%] mx-auto p-[40px]">
@@ -159,7 +159,7 @@
             </div>
             
             <div  class="group h-full pt-[30px] px-5 max-[940px]:px-2"  id="hoverLink"  onmouseenter="hoverDrop(4)"  onmouseleave="hoverHide(-4)">
-              <a href="public/product-review-all-running.html" class="group-hover:opacity-50 text-[13px] tracking-[1px] font-[500] relative top-[7%]">RUNNING</a>
+              <a href="product-review-all-running.html" class="group-hover:opacity-50 text-[13px] tracking-[1px] font-[500] relative top-[7%]">RUNNING</a>
               <!-- Running section -->
               <section class="w-full bg-white absolute top-[100px] max-h-[0px] overflow-hidden duration-500 ease-in-out z-[10000] left-0" id="running" >
                 <div id="" class="max-w-[95%] mx-auto p-[40px]">
@@ -171,7 +171,7 @@
             </div>
         
             <div  class="group h-full pt-[30px] px-5 max-[940px]:px-2"  id="hoverLink"  onmouseenter="hoverDrop(5)"  onmouseleave="hoverHide(-5)">
-              <a href="public/product-review-snowboarding.html" class="group-hover:opacity-50 text-[13px] tracking-[1px] font-[500] relative top-[7%]">SNOWBOARDING</a>
+              <a href="product-review-snowboarding.html" class="group-hover:opacity-50 text-[13px] tracking-[1px] font-[500] relative top-[7%]">SNOWBOARDING</a>
               <!-- Snowboarding section -->
               <section class="w-full bg-white absolute top-[100px] max-h-[0px] overflow-hidden duration-500 ease-in-out z-[10000] left-0" id="snowboard" >
                 <div id="" class="max-w-[95%] mx-auto p-[40px] pb-[20px]">
@@ -179,7 +179,7 @@
                     <card-slide data-source="snowboarding-obj" grid-style="grid-cols-4 gap-4"></card-slide>
                     <div class="flex max-w-[1200px] mx-auto">
                         <div class="flex flex-col items-center justify-center w-[213px]">
-                            <a id="hoverLink" href="public/athletes-snowboarding.html" class="bg-[#F7F8FA]"><img src="assets/images/snowboard-images/skate-athlete.webp" alt=""></a>
+                            <a id="hoverLink" href="athletes-snowboarding.html" class="bg-[#F7F8FA]"><img src="assets/images/snowboard-images/skate-athlete.webp" alt=""></a>
                             <p class="text-[16px] text-black tracking-[1.5px] pt-2">TEAM</p>
                         </div>
                     </div>
@@ -189,7 +189,7 @@
             </div>
         
             <div class="cursor-pointer hover:opacity-80 h-full pt-[30px] px-5 max-[940px]:px-2">
-              <a href="public/news.html" class="relative top-[7%] pb-4 text-[13px] tracking-[1px] font-[500]">NEWS</a>
+              <a href="news.html" class="relative top-[7%] pb-4 text-[13px] tracking-[1px] font-[500]">NEWS</a>
             </div>
         
             <div  class="group h-full pt-[30px] px-5 max-[940px]:px-2"  id="hoverLink"  onmouseenter="hoverDrop(6)"  onmouseleave="hoverHide(-6)">
@@ -245,7 +245,7 @@
         </div>
         
       </nav>
-        `}};customElements.define(`my-navbar`,i);var a={"badminton-obj":[{img:`assets/images/badminton-images/racquets_240306.png`,title:`RAQUEST`,link:`public/product-review-badminton.html`},{img:`assets/images/badminton-images/strings_240306.webp`,title:`STRINGS`,link:`#`},{img:`assets/images/badminton-images/shuttlecocks_img.webp`,title:`SHUTTLECOCKS`,link:`#`},{img:`assets/images/badminton-images/10566_011_520x320.webp`,title:`APPAREL`,link:`#`},{img:`assets/images/badminton-images/shoes_240306.webp`,title:`SHOES`,link:`#`},{img:`assets/images/badminton-images/bag.webp`,title:`BAGS`,link:`#`},{img:`assets/images/badminton-images/accessories_img2.webp`,title:`ACCESSORIES`,link:`#`},{img:`assets/images/badminton-images/athletes_240306.webp`,title:`ATHLETES`,link:`public/athletes-badminton.html`}],"tennis-obj":[{img:`assets/images/tennis-images/raquet-tennis.webp`,title:`RAQUEST`,link:`public/product-review-tennis.html`},{img:`assets/images/tennis-images/strings-tennis.webp`,title:`SHAFTS`,link:`#`},{img:`assets/images/tennis-images/tennis-ball.webp`,title:`BALLS`,link:`#`},{img:`assets/images/tennis-images/apparel-tennis.webp`,title:`APPAREL`,link:`#`},{img:`assets/images/tennis-images/shoes-tennis.webp`,title:`SHOES`,link:`#`},{img:`assets/images/tennis-images/tennis_Bag_.webp`,title:`BAGS`,link:`#`},{img:`assets/images/tennis-images/accessories-tennis.webp`,title:`ACCESSORIES`,link:`#`},{img:`assets/images/tennis-images/tennis-athlete.webp`,title:`ATHLETES`,link:`public/athletes-tennis.html`}],"golf-obj":[{img:`assets/images/golf-images/thm_club_ezone.webp`,title:`CLUBS`,link:`public/product-review-golf.html`},{img:`assets/images/golf-images/Mega-Menu-Golf-Shaft_1.webp`,title:`SHAFTS`,link:`#`},{img:`assets/images/golf-images/Mega-Golf-Bag.webp`,title:`GEAR`,link:`#`},{img:`assets/images/golf-images/golf-athletes.webp`,title:`ATHLETES`,link:`public/athletes-golf.html`}],"running-obj":[{img:`assets/images/running-images/shoe-orange.webp`,title:`MEN`,link:`public/product-review-men.html`},{img:`assets/images/running-images/shoe-white.webp`,title:`WOMEN`,link:`public/product-review-women.html`},{img:`assets/images/running-images/shoe-brown.webp`,title:`UNISEX`,link:`public/product-review-unisex.html`}],"snowboarding-obj":[{img:`assets/images/snowboard-images/skate.webp`,title:`BOARD`,link:`public/product-review-snowboarding.html`},{img:`assets/images/snowboard-images/skate-shoe.webp`,title:`BOOT & BINDING`,link:`#`},{img:`assets/images/snowboard-images/skate-coat.webp`,title:`APPAREL`,link:`#`},{img:`assets/images/snowboard-images/skate-glove.webp`,title:`ACCESSORIES`,link:`#`}],"about-obj":[{title:`ABOUT US`,link:`public/about-us.html`},{title:`YONEX GROUP`,link:`public/yonex-group.html`},{title:`YONEX DISTRIBUTOR`,link:`public/yonex-distributors.html`},{title:`INVESTOR RELATION`,link:`#`},{title:`PRODUCT CATALOGS`,link:`#`},{title:`MADE BY YONEX`,link:`#`}]},o=(e,t)=>`
+        `}};customElements.define(`my-navbar`,i);var a={"badminton-obj":[{img:`assets/images/badminton-images/racquets_240306.png`,title:`RAQUEST`,link:`product-review-badminton.html`},{img:`assets/images/badminton-images/strings_240306.webp`,title:`STRINGS`,link:`#`},{img:`assets/images/badminton-images/shuttlecocks_img.webp`,title:`SHUTTLECOCKS`,link:`#`},{img:`assets/images/badminton-images/10566_011_520x320.webp`,title:`APPAREL`,link:`#`},{img:`assets/images/badminton-images/shoes_240306.webp`,title:`SHOES`,link:`#`},{img:`assets/images/badminton-images/bag.webp`,title:`BAGS`,link:`#`},{img:`assets/images/badminton-images/accessories_img2.webp`,title:`ACCESSORIES`,link:`#`},{img:`assets/images/badminton-images/athletes_240306.webp`,title:`ATHLETES`,link:`athletes-badminton.html`}],"tennis-obj":[{img:`assets/images/tennis-images/raquet-tennis.webp`,title:`RAQUEST`,link:`product-review-tennis.html`},{img:`assets/images/tennis-images/strings-tennis.webp`,title:`SHAFTS`,link:`#`},{img:`assets/images/tennis-images/tennis-ball.webp`,title:`BALLS`,link:`#`},{img:`assets/images/tennis-images/apparel-tennis.webp`,title:`APPAREL`,link:`#`},{img:`assets/images/tennis-images/shoes-tennis.webp`,title:`SHOES`,link:`#`},{img:`assets/images/tennis-images/tennis_Bag_.webp`,title:`BAGS`,link:`#`},{img:`assets/images/tennis-images/accessories-tennis.webp`,title:`ACCESSORIES`,link:`#`},{img:`assets/images/tennis-images/tennis-athlete.webp`,title:`ATHLETES`,link:`athletes-tennis.html`}],"golf-obj":[{img:`assets/images/golf-images/thm_club_ezone.webp`,title:`CLUBS`,link:`product-review-golf.html`},{img:`assets/images/golf-images/Mega-Menu-Golf-Shaft_1.webp`,title:`SHAFTS`,link:`#`},{img:`assets/images/golf-images/Mega-Golf-Bag.webp`,title:`GEAR`,link:`#`},{img:`assets/images/golf-images/golf-athletes.webp`,title:`ATHLETES`,link:`athletes-golf.html`}],"running-obj":[{img:`assets/images/running-images/shoe-orange.webp`,title:`MEN`,link:`product-review-men.html`},{img:`assets/images/running-images/shoe-white.webp`,title:`WOMEN`,link:`product-review-women.html`},{img:`assets/images/running-images/shoe-brown.webp`,title:`UNISEX`,link:`product-review-unisex.html`}],"snowboarding-obj":[{img:`assets/images/snowboard-images/skate.webp`,title:`BOARD`,link:`product-review-snowboarding.html`},{img:`assets/images/snowboard-images/skate-shoe.webp`,title:`BOOT & BINDING`,link:`#`},{img:`assets/images/snowboard-images/skate-coat.webp`,title:`APPAREL`,link:`#`},{img:`assets/images/snowboard-images/skate-glove.webp`,title:`ACCESSORIES`,link:`#`}],"about-obj":[{title:`ABOUT US`,link:`about-us.html`},{title:`YONEX GROUP`,link:`yonex-group.html`},{title:`YONEX DISTRIBUTOR`,link:`yonex-distributors.html`},{title:`INVESTOR RELATION`,link:`#`},{title:`PRODUCT CATALOGS`,link:`#`},{title:`MADE BY YONEX`,link:`#`}]},o=(e,t)=>`
     <div class="grid ${t} max-w-[1600px] items-center flex-1">
         ${e.map(e=>`
             <div class="flex flex-col items-center justify-center max-w-[213px] ">
@@ -254,7 +254,7 @@
             </div>
             `).join(``)}
      </div>
-    `,s=class extends HTMLElement{connectedCallback(){let e=this.getAttribute(`grid-style`),t=a[this.getAttribute(`data-source`)]||[];this.innerHTML=o(t,e)}};customElements.define(`card-slide`,s);var c=[{img:`assets/images/homePage-hero/Lucas.webp`,titleB1:`Watch Video`},{img:`assets/images/homePage-hero/badminton-cover.webp`,titleB1:`Learn More`},{img:`assets/images/homePage-hero/badminton-image.webp`,titleB1:`Read More`},{img:`assets/images/homePage-hero/beyond-i-see.webp`,titleB1:`Watch Video`},{img:`assets/images/homePage-hero/bwis_manifest_1002.webp`,titleB1:`Read More`},{img:`assets/images/homePage-hero/ezong.webp`,titleB1:`Learn More`},{img:`assets/images/homePage-hero/fly-direction.webp`,titleB1:`Read More`},{img:`assets/images/homePage-hero/made-by-yonex-desktop.webp`,titleB1:`Learn More`},{img:`assets/images/homePage-hero/new-dawn.webp`,titleB1:`Learn More`},{img:`assets/images/homePage-hero/shoes.webp`,titleB1:`Read More`}],l=[{imgResponsive:[`assets/images/homePage-hero/responsive/lucas.webp`,`assets/images/homePage-hero/responsive/badminton-1000.webp`,`assets/images/homePage-hero/responsive/beyond-what-i-see.webp`,`assets/images/homePage-hero/responsive/craft.webp`,`assets/images/homePage-hero/responsive/counter-drive.webp`,`assets/images/homePage-hero/responsive/craft.webp`,`assets/images/homePage-hero/responsive/cover.webp`,`assets/images/homePage-hero/responsive/far-beyond.webp`]}],u={"hero-banner":c,"hero-responsive":l[0].imgResponsive,"card-carousel":[{link:`public/product-review-badminton.html`,img:`assets/images/sport-image/badminton.webp`,title:`BADMINTON`},{link:`public/product-review-golf.html`,img:`assets/images/sport-image/golf.webp`,title:`GOLF`},{link:`public/product-review-all-running.html`,img:`assets/images/sport-image/orange-shoes.webp`,title:`RUNNING`},{link:`public/product-review-tennis.html`,img:`assets/images/sport-image/tennis.webp`,title:`TENNIS`},{link:`public/product-review-snowboarding.html`,img:`assets/images/sport-image/snowboard.webp`,title:`SNOWBOARD`}],"athlete-carousel":[{link:`public/athlete-profile-badminton.html`,img:`assets/images/product-review/al1.webp`,title:`VIKTOR AXELSON`},{link:`public/athlete-profile-golf.html`,img:`https://www.yonex.com/media/athletes/tmp/square/kim_570x570_.jpg`,title:`HYO JOO KIM`},{link:`public/athlete-profile-tennis.html`,img:`assets/images/product-review/t1.webp`,title:`ELENA RYBAKINA`},{link:`public/athlete-profile-snowboarding.html`,img:`https://www.yonex.com/media/athletes/tmp/square/Yuto-square.jpg`,title:`YUTO TOTSKA`},{link:`#`,img:`assets/images/product-review/nakashima_570x570.webp`,title:` BRANDOM NAKASHIMA`},{link:`#`,img:`assets/images/product-review/vekic_570x570.webp`,title:`DONNA VEKIC`},{link:`#`,img:`assets/images/product-review/kim_570x570_.webp`,title:`HYOO JOO KIM`}],"new-arrival-carousel":[{link:`public/detail-golf.html`,img:`assets/images/detail-golf/ezone.png`,title:`EZONE GT DRIVER TYPE S`},{link:`public/detail-tennis.html`,img:`assets/images/detail-tennis/percept97.png`,title:`PERCEPT 97`},{link:`public/detail-badminton.html`,img:`assets/images/productPage/Astrox88.png`,title:`ASTROX 88 S GAME`},{link:`public/detail-snowboard.html`,img:`assets/images/detail-snowboard/regna.png`,title:`REGNA`},{link:`public/detail-women.html`,img:`https://www.yonex.com/media/catalog/product/s/h/shr100xl_663_1_1.png?quality=80&fit=bounds&height=819&width=600&canvas=600:819`,title:`SAFERUN 100X WOMEN`},{link:`public/detail-men.html`,img:`assets/images/running-page/shr100xm_440_1.webp`,title:`SAFERUN 100X MEN`},{link:`public/detail-unisex.html`,img:`https://www.yonex.com/media/catalog/product/s/h/shr900c_bk007_fs_rs_1.png?quality=80&fit=bounds&height=819&width=600&canvas=600:819`,title:`SAFERUN 900C`}]},d=e=>`
+    `,s=class extends HTMLElement{connectedCallback(){let e=this.getAttribute(`grid-style`),t=a[this.getAttribute(`data-source`)]||[];this.innerHTML=o(t,e)}};customElements.define(`card-slide`,s);var c=[{img:`assets/images/homePage-hero/Lucas.webp`,titleB1:`Watch Video`},{img:`assets/images/homePage-hero/badminton-cover.webp`,titleB1:`Learn More`},{img:`assets/images/homePage-hero/badminton-image.webp`,titleB1:`Read More`},{img:`assets/images/homePage-hero/beyond-i-see.webp`,titleB1:`Watch Video`},{img:`assets/images/homePage-hero/bwis_manifest_1002.webp`,titleB1:`Read More`},{img:`assets/images/homePage-hero/ezong.webp`,titleB1:`Learn More`},{img:`assets/images/homePage-hero/fly-direction.webp`,titleB1:`Read More`},{img:`assets/images/homePage-hero/made-by-yonex-desktop.webp`,titleB1:`Learn More`},{img:`assets/images/homePage-hero/new-dawn.webp`,titleB1:`Learn More`},{img:`assets/images/homePage-hero/shoes.webp`,titleB1:`Read More`}],l=[{imgResponsive:[`assets/images/homePage-hero/responsive/lucas.webp`,`assets/images/homePage-hero/responsive/badminton-1000.webp`,`assets/images/homePage-hero/responsive/beyond-what-i-see.webp`,`assets/images/homePage-hero/responsive/craft.webp`,`assets/images/homePage-hero/responsive/counter-drive.webp`,`assets/images/homePage-hero/responsive/craft.webp`,`assets/images/homePage-hero/responsive/cover.webp`,`assets/images/homePage-hero/responsive/far-beyond.webp`]}],u={"hero-banner":c,"hero-responsive":l[0].imgResponsive,"card-carousel":[{link:`product-review-badminton.html`,img:`assets/images/sport-image/badminton.webp`,title:`BADMINTON`},{link:`product-review-golf.html`,img:`assets/images/sport-image/golf.webp`,title:`GOLF`},{link:`product-review-all-running.html`,img:`assets/images/sport-image/orange-shoes.webp`,title:`RUNNING`},{link:`product-review-tennis.html`,img:`assets/images/sport-image/tennis.webp`,title:`TENNIS`},{link:`product-review-snowboarding.html`,img:`assets/images/sport-image/snowboard.webp`,title:`SNOWBOARD`}],"athlete-carousel":[{link:`athlete-profile-badminton.html`,img:`assets/images/product-review/al1.webp`,title:`VIKTOR AXELSON`},{link:`athlete-profile-golf.html`,img:`https://www.yonex.com/media/athletes/tmp/square/kim_570x570_.jpg`,title:`HYO JOO KIM`},{link:`athlete-profile-tennis.html`,img:`assets/images/product-review/t1.webp`,title:`ELENA RYBAKINA`},{link:`athlete-profile-snowboarding.html`,img:`https://www.yonex.com/media/athletes/tmp/square/Yuto-square.jpg`,title:`YUTO TOTSKA`},{link:`#`,img:`assets/images/product-review/nakashima_570x570.webp`,title:` BRANDOM NAKASHIMA`},{link:`#`,img:`assets/images/product-review/vekic_570x570.webp`,title:`DONNA VEKIC`},{link:`#`,img:`assets/images/product-review/kim_570x570_.webp`,title:`HYOO JOO KIM`}],"new-arrival-carousel":[{link:`detail-golf.html`,img:`assets/images/detail-golf/ezone.png`,title:`EZONE GT DRIVER TYPE S`},{link:`detail-tennis.html`,img:`assets/images/detail-tennis/percept97.png`,title:`PERCEPT 97`},{link:`detail-badminton.html`,img:`assets/images/productPage/Astrox88.png`,title:`ASTROX 88 S GAME`},{link:`detail-snowboard.html`,img:`assets/images/detail-snowboard/regna.png`,title:`REGNA`},{link:`detail-women.html`,img:`https://www.yonex.com/media/catalog/product/s/h/shr100xl_663_1_1.png?quality=80&fit=bounds&height=819&width=600&canvas=600:819`,title:`SAFERUN 100X WOMEN`},{link:`detail-men.html`,img:`assets/images/running-page/shr100xm_440_1.webp`,title:`SAFERUN 100X MEN`},{link:`detail-unisex.html`,img:`https://www.yonex.com/media/catalog/product/s/h/shr900c_bk007_fs_rs_1.png?quality=80&fit=bounds&height=819&width=600&canvas=600:819`,title:`SAFERUN 900C`}]},d=e=>`
         <div class="hidden md:relative md:block">
         ${e.map(e=>`
             <div class="mySlides fade relative">
@@ -324,20 +324,20 @@
               class="max-h-0 overflow-y-hidden duration-300 pl-10 bg-[#F7F8F9] font-[Oswald] mt-4"
               id="badminton-drop"
             >
-              <li class="tracking-[2px] pb-2"><a href="public/product-review-badminton.html">RAQUEST</a></li>
+              <li class="tracking-[2px] pb-2"><a href="product-review-badminton.html">RAQUEST</a></li>
               <li class="tracking-[2px] pb-2"><a href="">STRINGS</a></li>
               <li class="tracking-[2px] pb-2"><a href="">SHUTTLECOCKS</a></li>
               <li class="tracking-[2px] pb-2"><a href="">APPAREL</a></li>
               <li class="tracking-[2px] pb-2"><a href="">SHOES</a></li>
               <li class="tracking-[2px] pb-2"><a href="">BAGS</a></li>
               <li class="tracking-[2px] pb-2"><a href="">ACCESSORIES</a></li>
-              <li class="tracking-[2px] pb-2"><a href="public/athletes-badminton.html">ATHLETES</a></li>
+              <li class="tracking-[2px] pb-2"><a href="athletes-badminton.html">ATHLETES</a></li>
             </ul>
           </li>
           <li class="border-b">
             <div class="flex justify-between">
               <a
-                href="public/product-review-golf.html"
+                href="product-review-golf.html"
                 class="py-2 px-4 block text-[#1f2427] transition duration-300 tracking-[1px] text-[18px]"
                 >GOLF</a
               >
@@ -356,10 +356,10 @@
               class="max-h-0 overflow-y-hidden duration-300 pl-10 bg-[#F7F8F9] font-[Oswald] mt-4"
               id="golf-drop"
             >
-              <li class="tracking-[2px] pb-2"><a href="public/product-review-golf.html">CLUBS</a></li>
+              <li class="tracking-[2px] pb-2"><a href="product-review-golf.html">CLUBS</a></li>
               <li class="tracking-[2px] pb-2"><a href="">SHAFTS</a></li>
               <li class="tracking-[2px] pb-2"><a href="">GEAR</a></li>
-              <li class="tracking-[2px] pb-2"><a href="public/athletes-golf.html">ATHLETES</a></li>
+              <li class="tracking-[2px] pb-2"><a href="athletes-golf.html">ATHLETES</a></li>
             </ul>
           </li>
           <li class="border-b">
@@ -384,14 +384,14 @@
               class="max-h-0 overflow-y-hidden duration-300 pl-10 bg-[#F7F8F9] font-[Oswald] mt-4"
               id="tennis-drop"
             >
-              <li class="tracking-[2px] pb-2"><a href="public/product-review-tennis.html">RAQUEST</a></li>
+              <li class="tracking-[2px] pb-2"><a href="product-review-tennis.html">RAQUEST</a></li>
               <li class="tracking-[2px] pb-2"><a href="">STRINGS</a></li>
               <li class="tracking-[2px] pb-2"><a href="">BALLS</a></li>
               <li class="tracking-[2px] pb-2"><a href="">APPAREL</a></li>
               <li class="tracking-[2px] pb-2"><a href="">FOOTWEAR</a></li>
               <li class="tracking-[2px] pb-2"><a href="">BAGS</a></li>
               <li class="tracking-[2px] pb-2"><a href="">ACCESSORIES</a></li>
-              <li class="tracking-[2px] pb-2"><a href="public/athletes-tennis.html">ATHLETES</a></li>
+              <li class="tracking-[2px] pb-2"><a href="athletes-tennis.html">ATHLETES</a></li>
             </ul>
           </li>
           <li class="border-b">
@@ -416,9 +416,9 @@
               class="max-h-0 overflow-y-hidden duration-300 pl-10 bg-[#F7F8F9] font-[Oswald] mt-4"
               id="running-drop"
             >
-              <li class="tracking-[2px] pb-2"><a href="public/product-review-men.html">MEN</a></li>
-              <li class="tracking-[2px] pb-2"><a href="public/product-review-women.html">WOMEN</a></li>
-              <li class="tracking-[2px] pb-2"><a href="public/product-review-unisex.html">UNISEX</a></li>
+              <li class="tracking-[2px] pb-2"><a href="product-review-men.html">MEN</a></li>
+              <li class="tracking-[2px] pb-2"><a href="product-review-women.html">WOMEN</a></li>
+              <li class="tracking-[2px] pb-2"><a href="product-review-unisex.html">UNISEX</a></li>
             </ul>
           </li>
           <li class="border-b">
@@ -443,16 +443,16 @@
               class="max-h-0 overflow-y-hidden duration-300 pl-10 bg-[#F7F8F9] font-[Oswald] mt-4"
               id="snowboard-drop"
             >
-              <li class="tracking-[2px] pb-2"><a href="public/product-review-snowboarding.html">BOARDS</a></li>
+              <li class="tracking-[2px] pb-2"><a href="product-review-snowboarding.html">BOARDS</a></li>
               <li class="tracking-[2px] pb-2"><a href="">BOOTS & BINDING</a></li>
               <li class="tracking-[2px] pb-2"><a href="">APPAREL</a></li>
               <li class="tracking-[2px] pb-2"><a href="">ACCESSORIES</a></li>
-              <li class="tracking-[2px] pb-2"><a href="public/athletes-snowboarding.html">TEAM</a></li>
+              <li class="tracking-[2px] pb-2"><a href="athletes-snowboarding.html">TEAM</a></li>
             </ul>
           </li>
           <li class="border-b">
             <a
-              href="public/news.html"
+              href="news.html"
               class="pb-2 mb-3 px-4 block text-[#1f2427] transition duration-300 tracking-[1px] text-[18px]"
               >NEWS</a
             >
@@ -460,7 +460,7 @@
           <li class="border-b">
             <div class="flex justify-between">
               <a
-                href="public/about-us.html"
+                href="about-us.html"
                 class="py-2 px-4 block text-[#1f2427] transition duration-300 tracking-[1px] text-[18px]"
                 >ABOUT</a
               >
@@ -479,10 +479,10 @@
               class="max-h-[0] overflow-y-hidden duration-300 pl-10 bg-[#F7F8F9] font-[Oswald] mt-4 border-t"
               id="about-drop"
             >
-              <li class="tracking-[2px] pb-2"><a href="public/about-us.html">ABOUT US</a></li>
-              <li class="tracking-[2px] pb-2"><a href="public/yonex-group.html">YONEX GROUP</a></li>
+              <li class="tracking-[2px] pb-2"><a href="about-us.html">ABOUT US</a></li>
+              <li class="tracking-[2px] pb-2"><a href="yonex-group.html">YONEX GROUP</a></li>
               <li class="tracking-[2px] pb-2">
-                <a href="public/yonex-distributors.html">YONEX DISTRIBUTIORS</a>
+                <a href="yonex-distributors.html">YONEX DISTRIBUTIORS</a>
               </li>
               <li class="tracking-[2px] pb-2">
                 <a href="">INVESTOR RELATIONS</a>

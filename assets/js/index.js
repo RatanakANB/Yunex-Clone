@@ -17,78 +17,41 @@ class CardComponent extends HTMLElement{
 }
 customElements.define("card-component", CardComponent);
 
-// Baminton component
-//hover function for 
+const sectionIds = ['badminton', 'tennis', 'golf', 'running', 'snowboard', 'about'];
+
+function toggleDropdown(id) {
+    const el = document.querySelector('#' + id);
+    if (el) {
+        el.style.maxHeight = el.style.maxHeight === '500px' ? '0px' : '500px';
+    }
+}
+
 function hoverDrop(x){
-    if (x === 1) {
-        document.querySelector('#badminton').classList.toggle('max-h-[500px]')
-        document.getElementById('overlay-blur').classList.toggle('hidden');
-    }
-    if (x === 2) {
-        document.querySelector('#tennis').classList.toggle('max-h-[500px]')
-        document.getElementById('overlay-blur').classList.toggle('hidden');
-    }
-    if (x === 3) {
-        document.querySelector('#golf').classList.toggle('max-h-[500px]')
-        document.getElementById('overlay-blur').classList.toggle('hidden');
-    }
-    if (x === 4) {
-        document.querySelector('#running').classList.toggle('max-h-[500px]')
-        document.getElementById('overlay-blur').classList.toggle('hidden');
-    }
-    if (x === 5) {
-        document.querySelector('#snowboard').classList.toggle('max-h-[500px]')
-        document.getElementById('overlay-blur').classList.toggle('hidden');
-    }
-    if (x === 6) {
-        document.querySelector('#about').classList.toggle('max-h-[500px]')
-        document.getElementById('overlay-blur').classList.toggle('hidden');
-    }
+    toggleDropdown(sectionIds[x - 1]);
+    document.getElementById('overlay-blur').classList.toggle('hidden');
+}
 
-  }
-  function hoverHide(x){
-    if (x === -1) {
-        document.querySelector('#badminton').classList.toggle('max-h-[500px]')
-        document.getElementById('overlay-blur').classList.toggle('hidden');
-    }
-    if (x === -2) {
-        document.querySelector('#tennis').classList.toggle('max-h-[500px]')
-        document.getElementById('overlay-blur').classList.toggle('hidden');
-    }
-    if (x === -3) {
-        document.querySelector('#golf').classList.toggle('max-h-[500px]')
-        document.getElementById('overlay-blur').classList.toggle('hidden');
-    }
-    if (x === -4) {
-        document.querySelector('#running').classList.toggle('max-h-[500px]')
-        document.getElementById('overlay-blur').classList.toggle('hidden');
-    }
-    if (x === -5) {
-        document.querySelector('#snowboard').classList.toggle('max-h-[500px]')
-        document.getElementById('overlay-blur').classList.toggle('hidden');
-    }
-    if (x === -6) {
-        document.querySelector('#about').classList.toggle('max-h-[500px]')
-        document.getElementById('overlay-blur').classList.toggle('hidden');
-    }
-  }
-// GOLF Hover
+function hoverHide(x){
+    toggleDropdown(sectionIds[Math.abs(x) - 1]);
+    document.getElementById('overlay-blur').classList.toggle('hidden');
+}
 function golfDrop(){
-    document.getElementById('overlay-blur').classList.toggle('hidden');
-
-    document.querySelector('#golf').classList.toggle('max-h-[500px]')
+    const el = document.querySelector('#golf');
+    if (el) el.style.maxHeight = '500px';
+    document.getElementById('overlay-blur').classList.remove('hidden');
 }
+
 function golfHide(){
-    document.getElementById('overlay-blur').classList.toggle('hidden');
-
-    document.querySelector('#golf').classList.toggle('max-h-[500px]')
+    const el = document.querySelector('#golf');
+    if (el) el.style.maxHeight = '0px';
+    document.getElementById('overlay-blur').classList.add('hidden');
 }
 
 
-// Hamburger Sidebar
 function openNav() {
-    document.getElementById("mySidenav").classList.toggle('w-[80%]');
-    document.getElementById("mySidenav").classList.toggle('overflow-y-auto');
+    const sidenav = document.getElementById("mySidenav");
+    sidenav.style.width = '80%';
+    sidenav.style.overflowY = 'auto';
     document.getElementById('overlay-blur1').classList.remove('hidden');
     document.querySelector('body').classList.add('overflow-y-hidden')
     document.querySelector('#hamburger-logo').classList.add('hidden')
@@ -96,8 +59,9 @@ function openNav() {
 }
 
 function closeNav() {
-    document.getElementById("mySidenav").classList.toggle('w-[80%]');
-    document.getElementById("mySidenav").classList.toggle('overflow-y-auto');
+    const sidenav = document.getElementById("mySidenav");
+    sidenav.style.width = '0px';
+    sidenav.style.overflowY = 'hidden';
     document.getElementById('overlay-blur1').classList.add('hidden');
     document.querySelector('body').classList.remove('overflow-y-hidden')
     document.querySelector('#hamburger-logo').classList.remove('hidden')
@@ -105,31 +69,12 @@ function closeNav() {
 }
 
 
-// Dropdown in sidebar
+const sidebarDropIds = ['badminton-drop', 'golf-drop', 'tennis-drop', 'running-drop', 'snowboard-drop', 'about-drop'];
+
 function showDropdown(x){
-    if (x === 1){
-        let dropdownside = document.getElementById('badminton-drop');
-        dropdownside.classList.toggle('max-h-[300px]')
-    }
-    if (x === 2){
-        let dropdownside = document.getElementById('golf-drop');
-        dropdownside.classList.toggle('max-h-[300px]')
-    }
-    if (x === 3){
-        let dropdownside = document.getElementById('tennis-drop');
-        dropdownside.classList.toggle('max-h-[300px]')
-    }
-    if (x === 4){
-        let dropdownside = document.getElementById('running-drop');
-        dropdownside.classList.toggle('max-h-[300px]')
-    }
-    if (x === 5){
-        let dropdownside = document.getElementById('snowboard-drop');
-        dropdownside.classList.toggle('max-h-[300px]')
-    }
-    if (x === 6){
-        let dropdownside = document.getElementById('about-drop');
-        dropdownside.classList.toggle('max-h-[300px]')
+    let dropdownside = document.getElementById(sidebarDropIds[x - 1]);
+    if (dropdownside) {
+        dropdownside.style.maxHeight = dropdownside.style.maxHeight === '300px' ? '0px' : '300px';
     }
 }
 

@@ -129,18 +129,18 @@ export const SidebarSnowboard = [
 export const SidebarRunning = [
   {
     title: "All Running",
-    link: "../public/product-review-allRunning.html",
+    link: "product-review-allRunning.html",
   },
   {
     title: "MEN",
-    link: "../public/product-review-men.html",
+    link: "product-review-men.html",
   },
   {
     title: "WOMEN",
-    link: "../public/product-review-women.html",
+    link: "product-review-women.html",
   },
   {
     title: "UNISEX",
-    link: "../public/product-review-unisex.html",
+    link: "product-review-unisex.html",
   },
 ];

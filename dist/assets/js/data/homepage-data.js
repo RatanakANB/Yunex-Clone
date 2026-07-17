@@ -58,27 +58,27 @@ export const HeroRepsonsive = [
 
 export const CardSlider = [
     {
-        link: "public/product-review-badminton.html",
+        link: "product-review-badminton.html",
         img: "assets/images/sport-image/badminton.webp",
         title: "BADMINTON",
     },
     {
-        link: "public/product-review-golf.html",
+        link: "product-review-golf.html",
         img: "assets/images/sport-image/golf.webp",
         title: "GOLF",
     },
     {
-        link: "public/product-review-all-running.html",
+        link: "product-review-all-running.html",
         img: "assets/images/sport-image/orange-shoes.webp",
         title: "RUNNING",
     },
     {
-        link: "public/product-review-tennis.html",
+        link: "product-review-tennis.html",
         img: "assets/images/sport-image/tennis.webp",
         title: "TENNIS",
     },
     {
-        link: "public/product-review-snowboarding.html",
+        link: "product-review-snowboarding.html",
         img: "assets/images/sport-image/snowboard.webp",
         title: "SNOWBOARD",
     },
@@ -86,37 +86,37 @@ export const CardSlider = [
 
 export const CardSliderNewArrival = [
     {
-        link: "public/detail-golf.html",
+        link: "detail-golf.html",
         img: "assets/images/detail-golf/ezone.png",
         title: "EZONE GT DRIVER TYPE S",
     },
     {
-        link: "public/detail-tennis.html",
+        link: "detail-tennis.html",
         img: "assets/images/detail-tennis/percept97.png",
         title: "PERCEPT 97",
     },
     {
-        link: "public/detail-badminton.html",
+        link: "detail-badminton.html",
         img: "assets/images/productPage/Astrox88.png",
         title: "ASTROX 88 S GAME",
     },
     {
-        link: "public/detail-snowboard.html",
+        link: "detail-snowboard.html",
         img: "assets/images/detail-snowboard/regna.png",
         title: "REGNA",
     },
     {
-        link: "public/detail-women.html",
+        link: "detail-women.html",
         img: "https://www.yonex.com/media/catalog/product/s/h/shr100xl_663_1_1.png?quality=80&fit=bounds&height=819&width=600&canvas=600:819",
         title: "SAFERUN 100X WOMEN",
     },
     {
-        link: "public/detail-men.html",
+        link: "detail-men.html",
         img: "assets/images/running-page/shr100xm_440_1.webp",
         title: "SAFERUN 100X MEN",
     },
     {
-        link: "public/detail-unisex.html",
+        link: "detail-unisex.html",
         img: "https://www.yonex.com/media/catalog/product/s/h/shr900c_bk007_fs_rs_1.png?quality=80&fit=bounds&height=819&width=600&canvas=600:819",
         title: "SAFERUN 900C",
     },
@@ -124,22 +124,22 @@ export const CardSliderNewArrival = [
 
 export const CardSliderAthlete = [
     {
-        link: "public/athlete-profile-badminton.html",
+        link: "athlete-profile-badminton.html",
         img: "assets/images/product-review/al1.webp",
         title: "VIKTOR AXELSON",
     },
     {
-        link: "public/athlete-profile-golf.html",
+        link: "athlete-profile-golf.html",
         img: "https://www.yonex.com/media/athletes/tmp/square/kim_570x570_.jpg",
         title: "HYO JOO KIM",
     },
     {
-        link: "public/athlete-profile-tennis.html",
+        link: "athlete-profile-tennis.html",
         img: "assets/images/product-review/t1.webp",
         title: "ELENA RYBAKINA",
     },
     {
-        link: "public/athlete-profile-snowboarding.html",
+        link: "athlete-profile-snowboarding.html",
         img: "https://www.yonex.com/media/athletes/tmp/square/Yuto-square.jpg",
         title: "YUTO TOTSKA",
     },

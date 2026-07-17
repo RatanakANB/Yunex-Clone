@@ -3,7 +3,7 @@ export const BadmintonObj = [
     {
         img: "assets/images/badminton-images/racquets_240306.png",
         title: "RAQUEST",
-        link: "public/product-review-badminton.html",
+        link: "product-review-badminton.html",
     },
     {
         img: "assets/images/badminton-images/strings_240306.webp",
@@ -38,7 +38,7 @@ export const BadmintonObj = [
     {
         img: "assets/images/badminton-images/athletes_240306.webp",
         title: "ATHLETES",
-        link: "public/athletes-badminton.html",
+        link: "athletes-badminton.html",
     },
 ];
 // golfobj
@@ -46,7 +46,7 @@ export const GolfObj = [
     {
         img: "assets/images/golf-images/thm_club_ezone.webp",
         title: "CLUBS",
-        link: "public/product-review-golf.html",
+        link: "product-review-golf.html",
     },
     {
         img: "assets/images/golf-images/Mega-Menu-Golf-Shaft_1.webp",
@@ -61,7 +61,7 @@ export const GolfObj = [
     {
         img: "assets/images/golf-images/golf-athletes.webp",
         title: "ATHLETES",
-        link: "public/athletes-golf.html",
+        link: "athletes-golf.html",
     },
 ];
 // tennisobj
@@ -69,7 +69,7 @@ export const TennisObj = [
     {
         img: "assets/images/tennis-images/raquet-tennis.webp",
         title: "RAQUEST",
-        link: "public/product-review-tennis.html",
+        link: "product-review-tennis.html",
     },
     {
         img: "assets/images/tennis-images/strings-tennis.webp",
@@ -104,7 +104,7 @@ export const TennisObj = [
     {
         img: "assets/images/tennis-images/tennis-athlete.webp",
         title: "ATHLETES",
-        link: "public/athletes-tennis.html",
+        link: "athletes-tennis.html",
     },
 ];
 // runningobj
@@ -112,17 +112,17 @@ export const RunningObj = [
     {
         img: "assets/images/running-images/shoe-orange.webp",
         title: "MEN",
-        link: "public/product-review-men.html",
+        link: "product-review-men.html",
     },
     {
         img: "assets/images/running-images/shoe-white.webp",
         title: "WOMEN",
-        link: "public/product-review-women.html",
+        link: "product-review-women.html",
     },
     {
         img: "assets/images/running-images/shoe-brown.webp",
         title: "UNISEX",
-        link: "public/product-review-unisex.html",
+        link: "product-review-unisex.html",
     },
 ];
 // snowboardobj
@@ -130,7 +130,7 @@ export const SnowboardObj = [
     {
         img: "assets/images/snowboard-images/skate.webp",
         title: "BOARD",
-        link: "public/product-review-snowboarding.html",
+        link: "product-review-snowboarding.html",
     },
     {
         img: "assets/images/snowboard-images/skate-shoe.webp",
@@ -152,15 +152,15 @@ export const SnowboardObj = [
 export const AboutObj = [
     {
         title: "ABOUT US",
-        link: "public/about-us.html",
+        link: "about-us.html",
     },
     {
         title: "YONEX GROUP",
-        link: "public/yonex-group.html",
+        link: "yonex-group.html",
     },
     {
         title: "YONEX DISTRIBUTOR",
-        link: "public/yonex-distributors.html",
+        link: "yonex-distributors.html",
     },
     {
         title: "INVESTOR RELATION",
