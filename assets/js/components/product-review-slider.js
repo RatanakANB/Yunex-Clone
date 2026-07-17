@@ -49,7 +49,7 @@ const SliderContainer = (sliderContents) => {
             >
               <img
                 class="w-[1.5rem]"
-                src="../assets/images/product-review/right-arrow.svg"
+                src="assets/images/product-review/right-arrow.svg"
                 alt=""
               />
             </div>
@@ -59,7 +59,7 @@ const SliderContainer = (sliderContents) => {
             >
               <img
                 class="w-[1.5rem]"
-                src="../assets/images/product-review/left-arrow.svg"
+                src="assets/images/product-review/left-arrow.svg"
                 alt=""
               />
             </div>

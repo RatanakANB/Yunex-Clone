@@ -7,11 +7,11 @@ export const BadmintonAthleteData = [
     ],
     athleteTitle: "",
     athleteImg1:
-      "../assets/images/athlete-profile.img/Axelsen_Short_heromain.webp",
+      "assets/images/athlete-profile.img/Axelsen_Short_heromain.webp",
     athleteImg2:
-      "../assets/images/athlete-profile.img/viktor_axelsen_profile2.webp",
+      "assets/images/athlete-profile.img/viktor_axelsen_profile2.webp",
     athleteImg3:
-      "../assets/images/athlete-profile.img/viktor_axelsen_profile3.webp",
+      "assets/images/athlete-profile.img/viktor_axelsen_profile3.webp",
   },
 ];
 
@@ -22,9 +22,9 @@ export const TennisAthleteData = [
     ],
     athleteTitle:
       "Yonex professional players may play with a customized racquet with different specifications to the model displayed.",
-    athleteImg1: "../assets/images/athlete-profile.img/tennis-cover.webp",
-    athleteImg2: "../assets/images/athlete-profile.img/rybakina_small1.webp",
-    athleteImg3: "../assets/images/athlete-profile.img/rybakina_small2.webp",
+    athleteImg1: "assets/images/athlete-profile.img/tennis-cover.webp",
+    athleteImg2: "assets/images/athlete-profile.img/rybakina_small1.webp",
+    athleteImg3: "assets/images/athlete-profile.img/rybakina_small2.webp",
   },
 ];
 
@@ -48,8 +48,8 @@ export const SnowboardAthleteData = [
       "Usually appearing to be innocent, but once in the halfpipe, he moves in a cool manner performing extreme jumps that rival those of adult riders. With strong influence from his parents, he started snowboarding at the age of 3. Even before he could remember he started practicing halfpipe riding in the 3rd grade of elementary school. In the 2020-2021 season, he further improved his routine and air height to go on to win all the competitions he entered in, including the X Games.",
     ],
     athleteTitle: "",
-    athleteImg1: "../assets/images/athlete-profile.img/Yuto-short.webp",
-    athleteImg2: "../assets/images/athlete-profile.img/Yuto-page-1.webp",
-    athleteImg3: "../assets/images/athlete-profile.img/Yuto-page-2.webp",
+    athleteImg1: "assets/images/athlete-profile.img/Yuto-short.webp",
+    athleteImg2: "assets/images/athlete-profile.img/Yuto-page-1.webp",
+    athleteImg3: "assets/images/athlete-profile.img/Yuto-page-2.webp",
   },
 ];

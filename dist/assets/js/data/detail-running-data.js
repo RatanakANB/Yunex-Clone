@@ -2,12 +2,12 @@ export const Men = [
   {
     verticalImgs: [
       {
-        verticalImg1: "../assets/images/running-page/shr100xm_440_1 (1).webp",
-        verticalImg2: "../assets/images/running-page/shr100xm_440_sl_2.webp",
+        verticalImg1: "assets/images/running-page/shr100xm_440_1 (1).webp",
+        verticalImg2: "assets/images/running-page/shr100xm_440_sl_2.webp",
       },
     ],
     mainImg: [
-      "../assets/images/running-page/shr100xm_440_1.webp",
+      "assets/images/running-page/shr100xm_440_1.webp",
       "https://www.yonex.com/media/catalog/product/s/h/shr100xm_440_sl_2.png?quality=80&fit=bounds&height=819&width=600&canvas=600:819",
     ],
     productName: "SAFERUN 100X MEN",
@@ -15,10 +15,10 @@ export const Men = [
       "For serious runners looking for excellent cushioning and repulsion.",
     productColor: "Citrus Yellow",
     productColorImgs: [
-      "../assets/images/running-page/shr100xm_w_1.webp",
-      "../assets/images/running-page/shr100xm_440_2.webp",
-      "../assets/images/running-page/shr100xm_a.webp",
-      "../assets/images/running-page/shr100xm_b.webp",
+      "assets/images/running-page/shr100xm_w_1.webp",
+      "assets/images/running-page/shr100xm_440_2.webp",
+      "assets/images/running-page/shr100xm_a.webp",
+      "assets/images/running-page/shr100xm_b.webp",
     ],
     productSpec: [
       {
@@ -57,8 +57,8 @@ export const Women = [
   {
     verticalImgs: [
       {
-        verticalImg1: "../assets/images/running-page/women.png",
-        verticalImg2: "../assets/images/running-page/image.png",
+        verticalImg1: "assets/images/running-page/women.png",
+        verticalImg2: "assets/images/running-page/image.png",
       },
     ],
     mainImg: [
@@ -70,10 +70,10 @@ export const Women = [
       "For serious runners looking for excellent cushioning and repulsion.",
     productColor: "Citrus Yellow",
     productColorImgs: [
-      "../assets/images/running-page/shr100xm_w_1.webp",
-      "../assets/images/running-page/shr100xm_440_2.webp",
-      "../assets/images/running-page/womenColor.png",
-      "../assets/images/running-page/shr100xm_b.webp",
+      "assets/images/running-page/shr100xm_w_1.webp",
+      "assets/images/running-page/shr100xm_440_2.webp",
+      "assets/images/running-page/womenColor.png",
+      "assets/images/running-page/shr100xm_b.webp",
     ],
     productSpec: [
       {
@@ -112,8 +112,8 @@ export const Unisex = [
   {
     verticalImgs: [
       {
-        verticalImg1: "../assets/images/running-page/unisex1.png",
-        verticalImg2: "../assets/images/running-page/unisex2.png",
+        verticalImg1: "assets/images/running-page/unisex1.png",
+        verticalImg2: "assets/images/running-page/unisex2.png",
       },
     ],
     mainImg: [
@@ -125,10 +125,10 @@ export const Unisex = [
       "For casual runners looking for a lightweight, stress-free fit equipped with the BOA®FIT SYSTEM",
     productColor: "",
     productColorImgs: [
-      "../assets/images/running-page/unisex3.png",
-      "../assets/images/running-page/unisex4.png",
-      "../assets/images/running-page/unisex5.png",
-      "../assets/images/running-page/unisex6.png",
+      "assets/images/running-page/unisex3.png",
+      "assets/images/running-page/unisex4.png",
+      "assets/images/running-page/unisex5.png",
+      "assets/images/running-page/unisex6.png",
     ],
     productSpec: [
       {

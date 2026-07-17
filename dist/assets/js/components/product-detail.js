@@ -41,10 +41,10 @@ const ShoesDetailContainer = (contents) => {
             `).join('')}
           </div>
           <button id="prevBtn" class="bg-white opacity-50 absolute h-[75vh] d-flex justify-center items-center w-[80px] left-10 top-1/2 transform -translate-y-1/2 hidden z-[10000] cursor-pointer">
-            <img src="../assets/images/running-page/carrot_L.svg" alt="previous" class="w-[30px] opacity-30">
+            <img src="assets/images/running-page/carrot_L.svg" alt="previous" class="w-[30px] opacity-30">
           </button>
           <button id="nextBtn" class="bg-white opacity-50 absolute h-[75vh] d-flex justify-center items-center w-[80px] right-0 top-1/2 transform -translate-y-1/2 hidden z-[10000] cursor-pointer">
-            <img src="../assets/images/running-page/carrot_R.svg" alt="next" class="w-[30px] opacity-30">
+            <img src="assets/images/running-page/carrot_R.svg" alt="next" class="w-[30px] opacity-30">
           </button>
         </div>
 
@@ -120,7 +120,7 @@ const ShoesDetailContainer = (contents) => {
           ${content.productModal ? `
           <!-- button for click modal -->
           <button id="stringBtn" class="flex gap-3 text-[14px] font-sans font-bold text-secondary-400 my-[15px] cursor-pointe">
-                <img class="w-[17px] h-6" src="../assets/images/icon/stringing-badminton-icon.svg" alt="">
+                <img class="w-[17px] h-6" src="assets/images/icon/stringing-badminton-icon.svg" alt="">
                 <span>See Stringing Instructions</span>
             </button>
             <div class="font-sans font-semibold text-[14px] flex md:hidden text-secondary-400">
@@ -133,13 +133,13 @@ const ShoesDetailContainer = (contents) => {
           <!-- Icon container -->
           <div class="flex justify-center md:justify-start gap-2 max-w-[800px] mx-auto">
             <a href="">
-              <img class="w-[30px] h-[30px]" src="../assets/images/icon/icon-facebook.svg" alt="facebook icon">
+              <img class="w-[30px] h-[30px]" src="assets/images/icon/icon-facebook.svg" alt="facebook icon">
             </a>
             <a href="">
-              <img class="w-[30px] h-[30px]" src="../assets/images/icon/icon-twitter.svg" alt="twitter icon">
+              <img class="w-[30px] h-[30px]" src="assets/images/icon/icon-twitter.svg" alt="twitter icon">
             </a>
             <a href="">
-              <img class="w-[30px] h-[30px]" src="../assets/images/icon/icon-link.svg" alt="link icon">
+              <img class="w-[30px] h-[30px]" src="assets/images/icon/icon-link.svg" alt="link icon">
             </a>
           </div>
         </div>

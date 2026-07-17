@@ -2,21 +2,21 @@ export const Golf = [
   {
     verticalImgs: [
       {
-        verticalImg1: "../assets/images/detail-golf/ezone-verti1.png",
-        verticalImg2: "../assets/images/detail-golf/ezone-verti2.png",
+        verticalImg1: "assets/images/detail-golf/ezone-verti1.png",
+        verticalImg2: "assets/images/detail-golf/ezone-verti2.png",
       },
     ],
     mainImg: [
-      "../assets/images/detail-golf/ezone.png",
-      "../assets/images/detail-golf/ezone-side.png",
+      "assets/images/detail-golf/ezone.png",
+      "assets/images/detail-golf/ezone-side.png",
     ],
     productName: "EZONE GT DRIVER TYPE S",
     productDes:
       "The evolved carbon crown and new “StrikeSpeed Carbon” structure are highly forgiving to a wide range of golfers, allowing them to aim with pinpoint accuracy as if they were “carrying” the ball, creating incredible distance.",
     productColor: "",
     productColorImgs: [
-      "../assets/images/detail-golf/ezone.png",
-      "../assets/images/detail-golf/ezone-color.png",
+      "assets/images/detail-golf/ezone.png",
+      "assets/images/detail-golf/ezone-color.png",
     ],
     productSpec: [
       {
@@ -60,9 +60,9 @@ export const Golf = [
 ];
 export const GolfTechno = [
   {
-    image: "../assets/images/detail-golf/lazer.png",
+    image: "assets/images/detail-golf/lazer.png",
     alt: "VERTICAL LASER MILLING FACE",
-    logo: "../assets/images/productPage/isometric.png",
+    logo: "assets/images/productPage/isometric.png",
     logoAlt: "logo_b",
     title: "VERTICAL LASER MILLING FACE",
     imgText: "",
@@ -72,9 +72,9 @@ export const GolfTechno = [
   },
 
   {
-    image: "../assets/images/detail-golf/carbon.png",
+    image: "assets/images/detail-golf/carbon.png",
     alt: "CROWN CARBON COMPOSITE STRUCTURE",
-    logo: "../assets/images/productPage/isometric.png",
+    logo: "assets/images/productPage/isometric.png",
     logoAlt: "logo_b",
     title: "CROWN CARBON COMPOSITE STRUCTURE",
     imgText: "",
@@ -84,9 +84,9 @@ export const GolfTechno = [
   },
 
   {
-    image: "../assets/images/detail-golf/sidewall.png",
+    image: "assets/images/detail-golf/sidewall.png",
     alt: "POWER CUSHION +",
-    logo: "../assets/images/detail-tennis/servo.png",
+    logo: "assets/images/detail-tennis/servo.png",
     logoAlt: "logo_b",
     title: "SIDE WALL",
     imgText: "",

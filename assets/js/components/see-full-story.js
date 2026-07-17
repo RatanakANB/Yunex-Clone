@@ -49,14 +49,14 @@ const CreateBlogContainer = (data) => {
                 <div class="socail-media max-lg:hidden mr-20">
                     <div class="social-logo w-[46px] h-[135px]">
                         <div class="bg-gray-100 w-[40px] h-[40px] flex justify-center items-center rounded-full mb-2"><a href=""><img
-                                class="w-[20px] h-[20px] hover:opacity-45" src="../assets/images/news-img/facebook-app-symbol.png "
+                                class="w-[20px] h-[20px] hover:opacity-45" src="assets/images/news-img/facebook-app-symbol.png "
                                 alt="facebook's logo" ></a>
                         </div>
                         <div class="bg-gray-100 w-[40px] h-[40px] flex justify-center items-center rounded-full mb-2"><a href=""><img
-                                class="w-[20px] h-[20px] hover:opacity-45" src="../assets/images/news-img/twitter.png "
+                                class="w-[20px] h-[20px] hover:opacity-45" src="assets/images/news-img/twitter.png "
                                 alt="twitter's logo"></div ></a>
                         <div class="bg-gray-100 w-[40px] h-[40px] flex justify-center items-center rounded-full mb-2"><a href=""><img
-                                class="w-[20px] h-[20px] hover:opacity-45" src="../assets/images/news-img/email.png " alt="email's logo"></a>
+                                class="w-[20px] h-[20px] hover:opacity-45" src="assets/images/news-img/email.png " alt="email's logo"></a>
                         </div >
                     </div>
                 </div>
@@ -90,15 +90,15 @@ const CreateBlogContainer = (data) => {
                             <div class="flex gap-3">
                                 <div class=" w-[30px] h-[30px] flex justify-center items-center rounded-full mb-2"><a href="">
                                     <img
-                                    class="w-[30px] h-[30px] hover:opacity-45" src="../assets/images/icons/facebook-icon.svg"
+                                    class="w-[30px] h-[30px] hover:opacity-45" src="assets/images/icons/facebook-icon.svg"
                                     alt="facebook's logo" ></a>
                                 </div>
                                 <div class=" w-[30px] h-[30px] flex justify-center items-center rounded-full mb-2"><a href="">
                                         <img
-                                        class="w-[30px] h-[30px] hover:opacity-45" src="../assets/images/icons/twitter_icon.svg"
+                                        class="w-[30px] h-[30px] hover:opacity-45" src="assets/images/icons/twitter_icon.svg"
                                         alt="twitter's logo"></div></a>
                                 <div class=" w-[30px] h-[30px] flex justify-center items-center rounded-full mb-2"><a href=""><img
-                                        class="w-[30px] h-[30px] hover:opacity-45" src="../assets/images/icons/mail_icon.svg" alt="email's logo"></a>
+                                        class="w-[30px] h-[30px] hover:opacity-45" src="assets/images/icons/mail_icon.svg" alt="email's logo"></a>
                                 </div >
                             </div>       
                         </div> 

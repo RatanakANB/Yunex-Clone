@@ -1,8 +1,8 @@
 export const HeroBadminton = [
   {
     textColor: "black",
-    imgLg: "../assets/images/product-review/heroCover.webp",
-    imgMd: "../assets/images/product-review/heroCover-breakPoint.webp",
+    imgLg: "assets/images/product-review/heroCover.webp",
+    imgMd: "assets/images/product-review/heroCover-breakPoint.webp",
     productName: "badminton",
     productType: "racquets",
     productDes: "badminton racquets",
@@ -12,8 +12,8 @@ export const HeroBadminton = [
 export const HeroTennis = [
   {
     textColor: "white",
-    imgLg: "../assets/images/product-review/tennisCover.webp",
-    imgMd: "../assets/images/product-review/tennisBreakpoint.webp",
+    imgLg: "assets/images/product-review/tennisCover.webp",
+    imgMd: "assets/images/product-review/tennisBreakpoint.webp",
     productName: "tennis",
     productType: "racquets",
     productDes: "tennis racquets",

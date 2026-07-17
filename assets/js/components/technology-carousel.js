@@ -43,13 +43,13 @@ class TechnologyCarousel extends HTMLElement {
         <div class="tech-right-navigation ml-[125px] flex items-end flex-1 pt-[150px] pb-[70px] max-md:ml-0 max-md:pt-0 absolute left-[50%] top-[70%] max-md:top-[90%] max-md:left-[40%]">
           <div class="border border-[#e0e0e0] mr-2">
             <button class="slider__btn slider__btn--left relative h-[40px] w-[50px] bg-white  flex justify-center items-center">
-              <img src="../assets/images/running-page/carrot_L.svg" alt="" />
+              <img src="assets/images/running-page/carrot_L.svg" alt="" />
             </button>
           </div>
 
           <div class="border border-[#e0e0e0]">
             <button class="slider__btn slider__btn--right relative h-[40px] w-[50px] flex justify-center items-center">
-              <img src="../assets/images/running-page/carrot_R.svg" alt="" />
+              <img src="assets/images/running-page/carrot_R.svg" alt="" />
             </button>
           </div>
           

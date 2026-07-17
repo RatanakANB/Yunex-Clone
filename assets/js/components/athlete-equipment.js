@@ -21,10 +21,10 @@ const EquipmentContainer = (listEquipments) => {
         `).join("")}
         
         <div class="back absolute top-[47%] right-[30px] bg-[#f3f2f2] p-5 md:hidden" id="nextBtn">
-            <img class="w-[1.5rem]" src="../assets/images/icon/arrow-right.svg" alt="" />
+            <img class="w-[1.5rem]" src="assets/images/icon/arrow-right.svg" alt="" />
         </div>
         <div class="next absolute top-[47%] left-[30px] bg-[#f3f2f2] p-5 md:hidden" id="prevBtn">
-            <img class="w-[1.5rem]" src="../assets/images/icon/arrow-left.svg" alt="" />
+            <img class="w-[1.5rem]" src="assets/images/icon/arrow-left.svg" alt="" />
         </div>
     </div>
     `;

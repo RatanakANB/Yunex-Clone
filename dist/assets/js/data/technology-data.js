@@ -1,6 +1,6 @@
 export const Men = [
   {
-    image: "../assets/images/running-page/T_Sh_Power_Cushion_Plus.webp",
+    image: "assets/images/running-page/T_Sh_Power_Cushion_Plus.webp",
     alt: "POWER CUSHION +",
     logo: "path/to/image/running-page/logo_b.png",
     logoAlt: "logo_b",
@@ -14,7 +14,7 @@ export const Men = [
   },
 
   {
-    image: "../assets/images/running-page/R_3D_Power_Graphite_.webp",
+    image: "assets/images/running-page/R_3D_Power_Graphite_.webp",
     alt: "POWER CUSHION +",
     logo: "path/to/image/running-page/logo_b.png",
     logoAlt: "logo_b",
@@ -26,7 +26,7 @@ export const Men = [
   },
 
   {
-    image: "../assets/images/running-page/tec_saferun100x_1.webp",
+    image: "assets/images/running-page/tec_saferun100x_1.webp",
     alt: "POWER CUSHION +",
     logo: "path/to/image/running-page/logo_b.png",
     logoAlt: "logo_b",
@@ -38,7 +38,7 @@ export const Men = [
   },
 
   {
-    image: "../assets/images/running-page/tec_saferun100x_2.webp",
+    image: "assets/images/running-page/tec_saferun100x_2.webp",
     alt: "POWER CUSHION +",
     logo: "path/to/image/running-page/logo_b.png",
     logoAlt: "logo_b",

@@ -2,21 +2,21 @@ export const Tennis = [
   {
     verticalImgs: [
       {
-        verticalImg1: "../assets/images/detail-tennis/percept-verti.png",
-        verticalImg2: "../assets/images/detail-tennis/side-percept-verti.png",
+        verticalImg1: "assets/images/detail-tennis/percept-verti.png",
+        verticalImg2: "assets/images/detail-tennis/side-percept-verti.png",
       },
     ],
     mainImg: [
-      "../assets/images/detail-tennis/percept97.png",
-      "../assets/images/detail-tennis/side-percept97.png",
+      "assets/images/detail-tennis/percept97.png",
+      "assets/images/detail-tennis/side-percept97.png",
     ],
     productName: "PERCEPT 97",
     productDes:
       "New technology and structure combine with innovation to increase string snapback and movement, giving players access to the most spin in Yonex tennis history.For experienced and advanced players looking for a flexible racquet with precision and feel.",
     productColor: "",
     productColorImgs: [
-      "../assets/images/detail-tennis/percept-small.png",
-      "../assets/images/detail-tennis/percept-color-small.png",
+      "assets/images/detail-tennis/percept-small.png",
+      "assets/images/detail-tennis/percept-color-small.png",
     ],
     productSpec: [
       {
@@ -79,9 +79,9 @@ export const Tennis = [
 ];
 export const TennisTechno = [
   {
-    image: "../assets/images/detail-tennis/isometric.png", 
+    image: "assets/images/detail-tennis/isometric.png", 
     alt: "Box frame",
-    logo: "../assets/images/productPage/isometric.png", 
+    logo: "assets/images/productPage/isometric.png", 
     logoAlt: "logo_b",
     title: "ISOMETRIC",
     imgText: "",
@@ -95,12 +95,12 @@ export const TennisTechno = [
   },
 
   {
-    image: "../assets/images/productPage/logo_b.png", 
+    image: "assets/images/productPage/logo_b.png", 
     alt: "2G-NAMD™ FLEX FORCE",
-    logo: "../assets/images/productPage/isometric.png", 
+    logo: "assets/images/productPage/isometric.png", 
     logoAlt: "logo_b",
     title: "ISOMETRIC",
-    imgText: "../assets/images/productPage/isometric.png",
+    imgText: "assets/images/productPage/isometric.png",
     description: [
       "Aggressive, attacking spin for pinpoint control is achieved through a carbon nanotube structure that binds the graphite fibers together, which reduces energy loss. Due to its resilient properties, the material flexes and provides quick snapback. ",
       "",
@@ -109,9 +109,9 @@ export const TennisTechno = [
   },
 
   {
-    image: "../assets/images/detail-tennis/servo-img.png", 
+    image: "assets/images/detail-tennis/servo-img.png", 
     alt: "POWER CUSHION +",
-    logo: "../assets/images/detail-tennis/servo.png", 
+    logo: "assets/images/detail-tennis/servo.png", 
     logoAlt: "logo_b",
     title: "SERVO FILTER",
     imgText: "",
@@ -124,7 +124,7 @@ export const TennisTechno = [
   },
 
   {
-    image: "../assets/images/detail-tennis/flexcon.png", 
+    image: "assets/images/detail-tennis/flexcon.png", 
     alt: "POWER CUSHION +",
     logo: "path/to/image/running-page/logo_b.png", 
     logoAlt: "logo_b",
@@ -138,12 +138,12 @@ export const TennisTechno = [
   },
 
   {
-    image: "../assets/images/detail-tennis/stiff.png", 
+    image: "assets/images/detail-tennis/stiff.png", 
     alt: "POWER CUSHION +",
     logo: "path/to/image/running-page/logo_b.png", 
     logoAlt: "logo_b",
     title: "STIFF RACQUET FACE DESIGN",
-    imgText: "../assets/images/productPage/slim-shaft.png",
+    imgText: "assets/images/productPage/slim-shaft.png",
     description: [
       "The frame employs morew layers* of graphite to increase rigidity of the racquet face. 3% more stability on the racquet face, providing improved consistency in ball trajectory.",
       "",

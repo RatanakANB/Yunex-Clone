@@ -1,8 +1,8 @@
 export const Badminton = [
   {
     mainImg: [
-      "../assets/images/productPage/Astrox88.png",
-      // "../assets/images/detail-tennis/side-percept97.png",
+      "assets/images/productPage/Astrox88.png",
+      // "assets/images/detail-tennis/side-percept97.png",
     ],
     productName: "Astrox 88 S Game",
     productDes:
@@ -71,9 +71,9 @@ export const Badminton = [
 
 export const BadmintonTechno = [
   {
-    image: "../assets/images/productPage/tech-01.png",
+    image: "assets/images/productPage/tech-01.png",
     alt: "Box frame",
-    logo: "../assets/images/productPage/tech-01.png",
+    logo: "assets/images/productPage/tech-01.png",
     logoAlt: "logo_b",
     title: "AERO+BOX Frame",
     imgText: "",
@@ -81,12 +81,12 @@ export const BadmintonTechno = [
   },
 
   {
-    image: "../assets/images/productPage/tech-02.png",
+    image: "assets/images/productPage/tech-02.png",
     alt: "ISOMETRIC",
-    logo: "../assets/images/productPage/isometric.png",
+    logo: "assets/images/productPage/isometric.png",
     logoAlt: "logo_b",
     title: "ISOMETRIC",
-    imgText: "../assets/images/productPage/isometric.png",
+    imgText: "assets/images/productPage/isometric.png",
     description: [
       "ISOMETRICTM technology continues to help the world’s greatest players achieve global success.",
       "",
@@ -98,7 +98,7 @@ export const BadmintonTechno = [
   },
 
   {
-    image: "../assets/images/productPage/logo_b.png",
+    image: "assets/images/productPage/logo_b.png",
     alt: "POWER CUSHION +",
     logo: "path/to/image/running-page/logo_b.png",
     logoAlt: "logo_b",
@@ -111,7 +111,7 @@ export const BadmintonTechno = [
   },
 
   {
-    image: "../assets/images/productPage/logo_b.png",
+    image: "assets/images/productPage/logo_b.png",
     alt: "POWER CUSHION +",
     logo: "path/to/image/running-page/logo_b.png",
     logoAlt: "logo_b",
@@ -127,19 +127,19 @@ export const BadmintonTechno = [
   },
 
   {
-    image: "../assets/images/productPage/tech-05.png",
+    image: "assets/images/productPage/tech-05.png",
     alt: "POWER CUSHION +",
     logo: "path/to/image/running-page/logo_b.png",
     logoAlt: "logo_b",
     title: "Super Slim Shaft",
-    imgText: "../assets/images/productPage/slim-shaft.png",
+    imgText: "assets/images/productPage/slim-shaft.png",
     description: [
       "Reduced Air Resistance",
       "Designed to slice through the air, generating speedy power.",
     ],
   },
   {
-    image: "../assets/images/productPage/logo_b.png",
+    image: "assets/images/productPage/logo_b.png",
     alt: "POWER CUSHION +",
     logo: "path/to/image/running-page/logo_b.png",
     logoAlt: "logo_b",

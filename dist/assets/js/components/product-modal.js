@@ -64,7 +64,7 @@ class ProductModal extends HTMLElement {
                                 </p>
                             </div>
                             <div class="shrink-0">
-                                <img src="../assets/images/productPage/stringDetail.png" class="md:w-[345px] md:h-[527px]" alt="String detail image" />
+                                <img src="assets/images/productPage/stringDetail.png" class="md:w-[345px] md:h-[527px]" alt="String detail image" />
                             </div>
                         </div>
                     </div>

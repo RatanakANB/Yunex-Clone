@@ -2,21 +2,21 @@ export const Snowboard = [
   {
     verticalImgs: [
       {
-        verticalImg1: "../assets/images/detail-snowboard/regna-verti1.png",
-        verticalImg2: "../assets/images/detail-snowboard/regna-verti2.png",
+        verticalImg1: "assets/images/detail-snowboard/regna-verti1.png",
+        verticalImg2: "assets/images/detail-snowboard/regna-verti2.png",
       },
     ],
     mainImg: [
-      "../assets/images/detail-snowboard/regna.png",
-      "../assets/images/detail-snowboard/regna-black.png",
+      "assets/images/detail-snowboard/regna.png",
+      "assets/images/detail-snowboard/regna-black.png",
     ],
     productName: "REGNA",
     productDes:
       "construction of “CSMC” core material with graphite “Namd™” eliminate chatter and increase stability at high speed. Experience the new sense of high performance carving with its unparallel lightness and maneuverability",
     productColor: "",
     productColorImgs: [
-      "../assets/images/detail-snowboard/regna.png",
-      "../assets/images/detail-snowboard/regna-black.png",
+      "assets/images/detail-snowboard/regna.png",
+      "assets/images/detail-snowboard/regna-black.png",
     ],
     productSpec: [
       {
@@ -52,12 +52,12 @@ export const Snowboard = [
 ];
 export const SnowboardTechno = [
   {
-    image: "../assets/images/detail-snowboard/ismetric-tip.png",
+    image: "assets/images/detail-snowboard/ismetric-tip.png",
     alt: "ISOMETRIC TIP",
-    logo: "../assets/images/productPage/isometric.png",
+    logo: "assets/images/productPage/isometric.png",
     logoAlt: "logo_b",
     title: "ISOMETRIC TIP",
-    imgText: "../assets/images/detail-snowboard/isometric tip-text.png",
+    imgText: "assets/images/detail-snowboard/isometric tip-text.png",
     description: [
       'Introducing our new shape "ISOMETRIC TIP" applied from our original',
       'ISOMETRIC technology. This square racket shape theory was inspired by the "sweet spot" of a tennis racket. The "sweet spot" of the tip has been enlarged, thus increasing stiffness and improvement of stability upon landing.',
@@ -65,9 +65,9 @@ export const SnowboardTechno = [
   },
 
   {
-    image: "../assets/images/detail-snowboard/micro.png",
+    image: "assets/images/detail-snowboard/micro.png",
     alt: "MICRO CORE",
-    logo: "../assets/images/productPage/isometric.png",
+    logo: "assets/images/productPage/isometric.png",
     logoAlt: "logo_b",
     title: "MICRO CORE",
     imgText: "",
@@ -77,9 +77,9 @@ export const SnowboardTechno = [
   },
 
   {
-    image: "../assets/images/productPage/logo_b.png",
+    image: "assets/images/productPage/logo_b.png",
     alt: "POWER CUSHION +",
-    logo: "../assets/images/detail-tennis/servo.png",
+    logo: "assets/images/detail-tennis/servo.png",
     logoAlt: "logo_b",
     title: "ISO NANO HIGH SPEED RACING Graphite Base",
     imgText: "",
@@ -88,9 +88,9 @@ export const SnowboardTechno = [
     ],
   },
   {
-    image: "../assets/images/detail-snowboard/namd.png",
+    image: "assets/images/detail-snowboard/namd.png",
     alt: "POWER CUSHION +",
-    logo: "../assets/images/detail-tennis/servo.png",
+    logo: "assets/images/detail-tennis/servo.png",
     logoAlt: "logo_b",
     title: "Namd™",
     imgText: "",
@@ -99,9 +99,9 @@ export const SnowboardTechno = [
     ],
   },
   {
-    image: "../assets/images/detail-snowboard/camber.png",
+    image: "assets/images/detail-snowboard/camber.png",
     alt: "POWER CUSHION +",
-    logo: "../assets/images/detail-tennis/servo.png",
+    logo: "assets/images/detail-tennis/servo.png",
     logoAlt: "logo_b",
     title: "NORMAL CAMBER",
     imgText: "",
@@ -110,12 +110,12 @@ export const SnowboardTechno = [
     ],
   },
   {
-    image: "../assets/images/productPage/logo_b.png",
+    image: "assets/images/productPage/logo_b.png",
     alt: "Carbon Shelled Microcore Construction",
-    logo: "../assets/images/detail-tennis/servo.png",
+    logo: "assets/images/detail-tennis/servo.png",
     logoAlt: "logo_b",
     title: "Carbon Shelled Microcore Construction",
-    imgText: "../assets/images/detail-snowboard/carbon-shelled.png",
+    imgText: "assets/images/detail-snowboard/carbon-shelled.png",
     description: [
       "Lightweight core structure that balances lightness and strength",
       "",
@@ -123,9 +123,9 @@ export const SnowboardTechno = [
     ],
   },
   {
-    image: "../assets/images/detail-snowboard/honeycomb.png",
+    image: "assets/images/detail-snowboard/honeycomb.png",
     alt: "Aramid Honeycomb",
-    logo: "../assets/images/detail-tennis/servo.png",
+    logo: "assets/images/detail-tennis/servo.png",
     logoAlt: "logo_b",
     title: "Aramid Honeycomb",
     imgText: "",
