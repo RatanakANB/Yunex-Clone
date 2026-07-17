@@ -126,7 +126,7 @@ export const CardSliderAthlete = [
     {
         link: "/Yunex-Clone/pages/athlete-profile-badminton.html",
         img: "/Yunex-Clone/assets/images/product-review/al1.webp",
-        title: "VIKTOR AXELSON",
+        title: "VIKTOR AXELSEN",
     },
     {
         link: "/Yunex-Clone/pages/athlete-profile-golf.html",
@@ -141,12 +141,12 @@ export const CardSliderAthlete = [
     {
         link: "/Yunex-Clone/pages/athlete-profile-snowboarding.html",
         img: "https://www.yonex.com/media/athletes/tmp/square/Yuto-square.jpg",
-        title: "YUTO TOTSKA",
+        title: "YUTO TOTSUKA",
     },
     {
         link: "#",
         img: "/Yunex-Clone/assets/images/product-review/nakashima_570x570.webp",
-        title: " BRANDOM NAKASHIMA",
+        title: "BRANDON NAKASHIMA",
     },
     {
         link: "#",
@@ -156,6 +156,6 @@ export const CardSliderAthlete = [
     {
         link: "#",
         img: "/Yunex-Clone/assets/images/product-review/kim_570x570_.webp",
-        title: "HYOO JOO KIM",
+        title: "HYO JOO KIM",
     },
 ];

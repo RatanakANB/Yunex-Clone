@@ -30,7 +30,7 @@ class Sidebar extends HTMLElement {
               class="max-h-0 overflow-y-hidden duration-300 pl-10 bg-[#F7F8F9] font-[Oswald] mt-4"
               id="badminton-drop"
             >
-              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/pages/product-review-badminton.html">RAQUEST</a></li>
+              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/pages/product-review-badminton.html">RACQUETS</a></li>
               <li class="tracking-[2px] pb-2"><a href="">STRINGS</a></li>
               <li class="tracking-[2px] pb-2"><a href="">SHUTTLECOCKS</a></li>
               <li class="tracking-[2px] pb-2"><a href="">APPAREL</a></li>
@@ -90,7 +90,7 @@ class Sidebar extends HTMLElement {
               class="max-h-0 overflow-y-hidden duration-300 pl-10 bg-[#F7F8F9] font-[Oswald] mt-4"
               id="tennis-drop"
             >
-              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/pages/product-review-tennis.html">RAQUEST</a></li>
+              <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/pages/product-review-tennis.html">RACQUETS</a></li>
               <li class="tracking-[2px] pb-2"><a href="">STRINGS</a></li>
               <li class="tracking-[2px] pb-2"><a href="">BALLS</a></li>
               <li class="tracking-[2px] pb-2"><a href="">APPAREL</a></li>
@@ -188,13 +188,13 @@ class Sidebar extends HTMLElement {
               <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/pages/about-us.html">ABOUT US</a></li>
               <li class="tracking-[2px] pb-2"><a href="/Yunex-Clone/pages/yonex-group.html">YONEX GROUP</a></li>
               <li class="tracking-[2px] pb-2">
-                <a href="/Yunex-Clone/pages/yonex-distributors.html">YONEX DISTRIBUTIORS</a>
+                <a href="/Yunex-Clone/pages/yonex-distributors.html">YONEX DISTRIBUTORS</a>
               </li>
               <li class="tracking-[2px] pb-2">
                 <a href="">INVESTOR RELATIONS</a>
               </li>
               <li class="tracking-[2px] pb-2">
-                <a href="">PRODUCT CATATLOGS</a>
+                <a href="">PRODUCT CATALOGS</a>
               </li>
               <li class="tracking-[2px] pb-2"><a href="">MADE BY YONEX</a></li>
             </ul>

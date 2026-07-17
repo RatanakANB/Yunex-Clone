@@ -2,7 +2,7 @@
 export const BadmintonObj = [
     {
         img: "/Yunex-Clone/assets/images/badminton-images/racquets_240306.png",
-        title: "RAQUEST",
+        title: "RACQUETS",
         link: "/Yunex-Clone/pages/product-review-badminton.html",
     },
     {
@@ -68,12 +68,12 @@ export const GolfObj = [
 export const TennisObj = [
     {
         img: "/Yunex-Clone/assets/images/tennis-images/raquet-tennis.webp",
-        title: "RAQUEST",
+        title: "RACQUETS",
         link: "/Yunex-Clone/pages/product-review-tennis.html",
     },
     {
         img: "/Yunex-Clone/assets/images/tennis-images/strings-tennis.webp",
-        title: "SHAFTS",
+        title: "STRINGS",
         link: "#",
     },
     {

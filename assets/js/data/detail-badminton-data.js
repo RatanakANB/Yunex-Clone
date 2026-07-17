@@ -6,7 +6,7 @@ export const Badminton = [
     ],
     productName: "Astrox 88 S Game",
     productDes:
-      "New technology and structure combine with innovation to increase string snapback and movement, giving players access to the most spin in Yonex tennis history.For experienced and advanced players looking for a flexible racquet with precision and feel.",
+      "New technology and structure combine with innovation to increase string snapback and movement, giving players access to the most spin in Yonex badminton history. For experienced and advanced players looking for a flexible racquet with precision and feel.",
     productColor: "",
     productSpec: [
       {
@@ -88,11 +88,11 @@ export const BadmintonTechno = [
     title: "ISOMETRIC",
     imgText: "../assets/images/productPage/isometric.png",
     description: [
-      "ISOMETRICTM technology continues to help the world’s greatest players achieve global success.",
+      "ISOMETRIC™ technology continues to help the world’s greatest players achieve global success.",
       "",
-      "Developed over 30 years ago, the ISOMETRICTM design increases the sweet spot by 7%*. Compared to a conventional round frame, a square-shaped ISOMETRICTM racquet generates a larger sweet spot by optimizing the intersection of the main and cross strings.",
+      "Developed over 30 years ago, the ISOMETRIC™ design increases the sweet spot by 7%*. Compared to a conventional round frame, a square-shaped ISOMETRIC™ racquet generates a larger sweet spot by optimizing the intersection of the main and cross strings.",
       "",
-      "ISOMETRICTM delivers greater control without sacrificing power. ISOMETRICTM is a Trademark of Yonex CO., LTD.",
+      "ISOMETRIC™ delivers greater control without sacrificing power. ISOMETRIC™ is a Trademark of Yonex CO., LTD.",
       "*Tested by Yonex",
     ],
   },

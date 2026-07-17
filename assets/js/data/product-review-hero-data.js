@@ -38,7 +38,7 @@ export const HeroSnowboard = [
     textColor: "black",
     imgLg: "https://www.yonex.com/media/catalog/category/header_snow01.jpg",
     imgMd: "https://www.yonex.com/media/catalog/category/header_snow01_sp.jpg",
-    productName: "snowborading",
+    productName: "snowboarding",
     productType: "BOARDS",
     productDes: "Boards",
   },

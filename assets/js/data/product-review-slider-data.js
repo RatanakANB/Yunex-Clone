@@ -1,6 +1,6 @@
 export const SliderBadminton = [
   {
-    link: "../public/athlete-profile-badminton.html",
+    link: "./athlete-profile-badminton.html",
     imgSlide: "../assets/images/product-review/al1.webp",
     name: "viktor axelsen",
     nation: "denmark",
@@ -230,7 +230,7 @@ export const SliderBadminton = [
 ];
 export const SliderTennis = [
   {
-    link: "../public/athlete-profile-tennis.html",
+    link: "./athlete-profile-tennis.html",
     imgSlide: "../assets/images/product-review/t1.webp",
     name: "Elena Rybakina",
     nation: "Kazakhstan",
@@ -366,7 +366,7 @@ export const SliderTennis = [
 
 export const SliderGolf = [
   {
-    link: "../public/athlete-profile-golf.html",
+    link: "./athlete-profile-golf.html",
     imgSlide:
       "https://www.yonex.com/media/athletes/tmp/square/kim_570x570_.jpg",
     name: "hyo joo kim",
@@ -397,7 +397,7 @@ export const SliderGolf = [
 
 export const SliderSnowboard = [
   {
-    link: "../public/athlete-profile-snowboarding.html",
+    link: "./athlete-profile-snowboarding.html",
     imgSlide: "https://www.yonex.com/media/athletes/tmp/square/Yuto-square.jpg",
     name: "yuto totska",
     nation: "japan",
