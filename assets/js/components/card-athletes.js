@@ -1,4 +1,4 @@
-import { Badminton, Tennis, Golf, Snowboarding} from '../data/athletes-data.js';
+import { Bedmanton, Tennis, Golf, Snowboarding} from '../data/athletes-data.js';
 
 class MyCard extends HTMLElement {
     connectedCallback() {
@@ -16,9 +16,9 @@ class MyCard extends HTMLElement {
             case 'golf':
                 cardData = Golf().find(card => card.id === parseInt(id, 10));
                 break;
-            case 'badminton':
+            case 'bedmanton':
             default:
-                cardData = Badminton().find(card => card.id === parseInt(id, 10));
+                cardData = Bedmanton().find(card => card.id === parseInt(id, 10));
                 break;
         }
 // Check and defined data according to it size

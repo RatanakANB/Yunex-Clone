@@ -253,7 +253,7 @@ export const GolfAthleteDataAchivement = [
   },
   {
     date: "2014",
-    des: "Korean LPGA Kia Motors Korea Women's Open Championship Winner",
+    des: "Korean LPGA Kia Motors Korea Women's Open Championship Winnern",
     year: "",
   },
   {

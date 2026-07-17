@@ -12,7 +12,7 @@ export const Tennis = [
     ],
     productName: "PERCEPT 97",
     productDes:
-      "New technology and structure combine with innovation to increase string snapback and movement, giving players access to the most spin in Yonex tennis history. For experienced and advanced players looking for a flexible racquet with precision and feel.",
+      "New technology and structure combine with innovation to increase string snapback and movement, giving players access to the most spin in Yonex tennis history.For experienced and advanced players looking for a flexible racquet with precision and feel.",
     productColor: "",
     productColorImgs: [
       "../assets/images/detail-tennis/percept-small.png",
@@ -145,9 +145,9 @@ export const TennisTechno = [
     title: "STIFF RACQUET FACE DESIGN",
     imgText: "../assets/images/productPage/slim-shaft.png",
     description: [
-      "The frame employs more layers* of graphite to increase rigidity of the racquet face. 3% more stability on the racquet face, providing improved consistency in ball trajectory.",
+      "The frame employs morew layers* of graphite to increase rigidity of the racquet face. 3% more stability on the racquet face, providing improved consistency in ball trajectory.",
       "",
-      "*Compared to previous control-oriented racquet models.",
+      "*Compared to previous controloriented racquet models.",
       "*Tested by Yonex",
     ],
   },

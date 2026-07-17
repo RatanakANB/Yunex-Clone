@@ -6,7 +6,7 @@ import { Snowboard } from '../data/detail-snowboard-data.js';
 
 const dataSource = {
   "men-info": Men,
-  "women-info": Women,
+  "wowen-info": Women,
   "unisex-info": Unisex,
   'tennis-info': Tennis,
   'badminton-info': Badminton,

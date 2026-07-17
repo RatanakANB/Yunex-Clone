@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy:gh": "vite build --base=/Yunex-Clone/",
+    "deploy:gh": "vite build --base=/2nd-mission/",
     "deploy": "npm run deploy:gh && npx gh-pages -d dist"
   },
   "keywords": [],
@@ -19,5 +19,8 @@
     "tailwindcss": "^3.4.3",
     "vite": "^8.1.5",
     "vite-plugin-static-copy": "^4.1.1"
+  },
+  "dependencies": {
+    "ci": "^2.3.0"
   }
 }

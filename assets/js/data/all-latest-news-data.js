@@ -5,7 +5,7 @@ export const AllLatestNewsData = [
     latestNews_Date_left: "May 22, 2024",
     latestNews_Des_left:
       "Roland-Garros 2024: Ruud and Rybakina lead Team Yonex in Paris",
-    latestNews_Link_left: "./roland-garros-story.html",
+    latestNews_Link_left: "../public/roland-garros-story.html",
     latestNews_content_right: [
       {
         right_img:
@@ -21,7 +21,7 @@ export const AllLatestNewsData = [
         right_date: "May 16, 2024",
         right_des:
           "Roland-Garros 2024: Keeping it fresh on the clay with Yonex’s Paris Collection",
-        right_link: "./roland-garros-story.html",
+        right_link: "../public/roland-garros-story.html",
       },
     ],
   },

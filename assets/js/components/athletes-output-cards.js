@@ -1,4 +1,4 @@
-import { Badminton, Tennis, Golf, Snowboarding } from '../data/athletes-data.js';
+import { Bedmanton, Tennis, Golf, Snowboarding } from '../data/athletes-data.js';
 
 document.addEventListener("DOMContentLoaded", () => {
     const cardContainer = document.getElementById('card-container');
@@ -15,9 +15,9 @@ document.addEventListener("DOMContentLoaded", () => {
         case 'Golf':
             cardData = Golf();
             break;
-        case 'badminton':
+        case 'bedmanton':
         default:
-            cardData = Badminton();
+            cardData = Bedmanton();
             break;
     }
 
