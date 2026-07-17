@@ -1,3 +1,5 @@
 .DS_Store
 generate-history.sh
-.dist/
+dist/
+node_modules/
+
